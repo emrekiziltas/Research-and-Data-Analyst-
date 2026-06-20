@@ -1,0 +1,1201 @@
+student_id,department,faculty,domicile,status,gender,age,application_date
+STU00001,Politics,Social Sciences,International,Rejected,Female,19.0,2023-01-15 00:00:00.000000
+STU00002,ENGLISH,Arts & Humanities,Home,Enrolled,Male,20.0,2023-01-15 03:19:21.968306
+STU00003,Physics,Science,Home,Enrolled,Female,23.0,2023-01-15 06:38:43.936613
+STU00004,Physics,Science,Home,Enrolled,Male,24.0,2023-01-15 09:58:05.904920
+STU00005,MEDICINE,Clinical Medicine,international,Enrolled,Male,22.0,2023-01-15 13:17:27.873227
+STU00006,Geography,Social Sciences,Home,Enrolled,Female,22.0,2023-01-15 16:36:49.841534
+STU00007,Engineering,Engineering,Home,Enrolled,,21.0,2023-01-15 19:56:11.809841
+STU00008,Philosophy,Arts & Humanities,Home,Enrolled,Female,20.0,2023-01-15 23:15:33.778148
+STU00009,Biology,Science,Home,enrolled,Non-binary,22.0,2023-01-16 02:34:55.746455
+STU00010,English,Arts & Humanities,Home,Enrolled,Female,21.0,2023-01-16 05:54:17.714762
+STU00011,Physics,Science,Home,Enrolled,Female,21.0,2023-01-16 09:13:39.683069
+STU00012,Economics,Social Sciences,Home,Enrolled,Male,23.0,2023-01-16 12:33:01.651376
+STU00013,English,Arts & Humanities,International,Enrolled,Male,25.0,2023-01-16 15:52:23.619683
+STU00014,Mathematics,Science,Home,Enrolled,Male,25.0,2023-01-16 19:11:45.587989
+STU00015,Politics,Social Sciences,home,Enrolled,Female,23.0,2023-01-16 22:31:07.556296
+STU00016,Sociology,Social Sciences,International,Rejected,Female,24.0,2023-01-17 01:50:29.524603
+STU00017,Physics,Science,International,Rejected,Female,20.0,2023-01-17 05:09:51.492910
+STU00018,Psychology,Social Sciences,Home,ENROLLED,Male,21.0,2023-01-17 08:29:13.461217
+STU00019,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,18.0,2023-01-17 11:48:35.429524
+STU00020,English,Arts & Humanities,Home,enrolled,Female,24.0,2023-01-17 15:07:57.397831
+STU00021,Veterinary Medicine,Clinical Medicine,Home,Rejected,Male,21.0,2023-01-17 18:27:19.366138
+STU00022,Medicine,Clinical Medicine,International,Enrolled,Female,19.0,2023-01-17 21:46:41.334445
+STU00023,Computer Science,Science,International,Enrolled,Female,25.0,2023-01-18 01:06:03.302752
+STU00024,Mathematics,Science,Home,Enrolled,Female,25.0,2023-01-18 04:25:25.271059
+STU00025,Chemical Engineering,Engineering,International,Enrolled,Male,25.0,2023-01-18 07:44:47.239366
+STU00026,Computer Science,Science,Home,Enrolled,Male,24.0,2023-01-18 11:04:09.207673
+STU00027,Philosophy,Arts & Humanities,International,Enrolled,Female,18.0,2023-01-18 14:23:31.175979
+STU00028,Philosophy,Arts & Humanities,International,Enrolled,Male,24.0,2023-01-18 17:42:53.144286
+STU00029,Engineering,Engineering,Home,Rejected,Female,24.0,2023-01-18 21:02:15.112593
+STU00030,Psychology,Social Sciences,International,Rejected,Male,18.0,2023-01-19 00:21:37.080900
+STU00031,Veterinary Medicine,Clinical Medicine,Home,Rejected,Male,25.0,2023-01-19 03:40:59.049207
+STU00032,Medicine,Clinical Medicine,Home,Rejected,Male,18.0,2023-01-19 07:00:21.017514
+STU00033,SOCIOLOGY,Social Sciences,Home,Enrolled,Female,21.0,2023-01-19 10:19:42.985821
+STU00034,Chemical Engineering,Engineering,International,Enrolled,Female,24.0,2023-01-19 13:39:04.954128
+STU00035,Computer Science,Science,Home,Rejected,Male,18.0,2023-01-19 16:58:26.922435
+STU00036,Psychology,Social Sciences,Home,Enrolled,Female,18.0,2023-01-19 20:17:48.890742
+STU00037,Pharmacology,Clinical Medicine,Home,Enrolled,Male,25.0,2023-01-19 23:37:10.859049
+STU00038,Psychology,Social Sciences,Home,Enrolled,Female,22.0,2023-01-20 02:56:32.827356
+STU00039,Engineering,Engineering,Home,Rejected,Male,22.0,2023-01-20 06:15:54.795663
+STU00040,Psychology,Social Sciences,Home,Enrolled,Female,24.0,2023-01-20 09:35:16.763969
+STU00041,Medicine,Clinical Medicine,Home,Enrolled,Female,18.0,2023-01-20 12:54:38.732276
+STU00042,History,Arts & Humanities,Home,Enrolled,Female,20.0,2023-01-20 16:14:00.700583
+STU00043,Physics,Science,Home,Enrolled,Female,25.0,2023-01-20 19:33:22.668890
+STU00044,Computer Science,Science,Home,Enrolled,Female,19.0,2023-01-20 22:52:44.637197
+STU00045,History,Arts & Humanities,Home,Rejected,Male,20.0,2023-01-21 02:12:06.605504
+STU00046,Physics,Science,International,Rejected,Female,23.0,2023-01-21 05:31:28.573811
+STU00047,Philosophy,Arts & Humanities,Home,Enrolled,Female,20.0,2023-01-21 08:50:50.542118
+STU00048,Physics,Science,INTERNATIONAL,Enrolled,Male,21.0,2023-01-21 12:10:12.510425
+STU00049,Politics,Social Sciences,International,Enrolled,Female,19.0,2023-01-21 15:29:34.478732
+STU00050,Computer Science,Science,Home,Rejected,Female,20.0,
+STU00051,Computer Science,Science,Home,Rejected,Male,19.0,2023-01-21 22:08:18.415346
+STU00052,Mathematics,Science,Home,Enrolled,Non-binary,25.0,2023-01-22 01:27:40.383653
+STU00053,Physics,Science,Home,Rejected,,19.0,2023-01-22 04:47:02.351959
+STU00054,Engineering,Engineering,International,Enrolled,Male,24.0,2023-01-22 08:06:24.320266
+STU00055,Politics,Social Sciences,International,Rejected,Female,20.0,2023-01-22 11:25:46.288573
+STU00056,Psychology,Social Sciences,Home,Enrolled,Male,24.0,2023-01-22 14:45:08.256880
+STU00057,Mathematics,Science,International,Rejected,Male,20.0,2023-01-22 18:04:30.225187
+STU00058,Medicine,Clinical Medicine,International,Enrolled,Female,20.0,
+STU00059,Mathematics,Science,Home,Rejected,Female,20.0,2023-01-23 00:43:14.161801
+STU00060,Computer Science,Science,Home,Rejected,Female,18.0,2023-01-23 04:02:36.130108
+STU00061,Civil Engineering,Engineering,Home,Enrolled,Female,22.0,2023-01-23 07:21:58.098415
+STU00062,Politics,Social Sciences,Home,Rejected,Female,25.0,2023-01-23 10:41:20.066722
+STU00063,Psychology,Social Sciences,Home,Enrolled,Female,20.0,2023-01-23 14:00:42.035029
+STU00064,Medicine,Clinical Medicine,International,Enroled,Female,20.0,2023-01-23 17:20:04.003336
+STU00065,Engineering,Engineering,Home,Rejected,Female,18.0,2023-01-23 20:39:25.971643
+STU00066,Veterinary Medicine,Clinical Medicine,International,Rejected,Female,22.0,2023-01-23 23:58:47.939949
+STU00067,Physics,Science,Home,Rejected,Female,,2023-01-24 03:18:09.908256
+STU00068,English,Arts & Humanities,Home,Rejected,Female,25.0,2023-01-24 06:37:31.876563
+STU00069,Computer Science,Science,Home,Enrolled,Non-binary,18.0,2023-01-24 09:56:53.844870
+STU00070,Physics,Science,Home,Rejected,Male,25.0,2023-01-24 13:16:15.813177
+STU00071,Mathematics,Science,Home,Enrolled,Male,25.0,2023-01-24 16:35:37.781484
+STU00072,Chemical Engineering,Engineering,Home,Enrolled,Female,25.0,2023-01-24 19:54:59.749791
+STU00073,Engineering,Engineering,Home,Rejected,Male,18.0,2023-01-24 23:14:21.718098
+STU00074,Computer Science,Science,Home,Enrolled,Male,22.0,2023-01-25 02:33:43.686405
+STU00075,Geography,Social Sciences,Home,Enrolled,Female,21.0,2023-01-25 05:53:05.654712
+STU00076,Chemistry,Science,Home,Enrolled,Male,20.0,2023-01-25 09:12:27.623019
+STU00077,Engineering,Engineering,Home,Enrolled,Male,23.0,2023-01-25 12:31:49.591326
+STU00078,Biology,Science,Home,Enrolled,Female,18.0,2023-01-25 15:51:11.559633
+STU00079,Physics,Science,International,Enrolled,Male,22.0,2023-01-25 19:10:33.527939
+STU00080,Physics,Science,Home,Enrolled,Female,19.0,2023-01-25 22:29:55.496246
+STU00081,Psychology,Social Sciences,Home,Enrolled,Male,24.0,2023-01-26 01:49:17.464553
+STU00082,Physics,Science,Home,Enrolled,Male,20.0,2023-01-26 05:08:39.432860
+STU00083,Psychology,Social Sciences,International,Enrolled,Female,20.0,2023-01-26 08:28:01.401167
+STU00084,Engineering,Engineering,Home,Rejected,Male,23.0,2023-01-26 11:47:23.369474
+STU00085,Chemistry,Science,International,Enrolled,Male,19.0,2023-01-26 15:06:45.337781
+STU00086,Physics,Science,International,Enrolled,Male,23.0,2023-01-26 18:26:07.306088
+STU00087,Civil Engineering,Engineering,International,Rejected,Male,24.0,2023-01-26 21:45:29.274395
+STU00088,Economics,Social Sciences,International,Rejected,Non-binary,24.0,2023-01-27 01:04:51.242702
+STU00089,Philosophy,Arts & Humanities,Home,Enrolled,Female,19.0,2023-01-27 04:24:13.211009
+STU00090,History,Arts & Humanities,Home,Enrolled,Female,20.0,2023-01-27 07:43:35.179316
+STU00091,Classics,Arts & Humanities,Home,Rejected,Female,22.0,2023-01-27 11:02:57.147623
+STU00092,Politics,Social Sciences,Home,Rejected,Female,24.0,2023-01-27 14:22:19.115929
+STU00093,Veterinary Medicine,Clinical Medicine,International,Rejected,Male,21.0,2023-01-27 17:41:41.084236
+STU00094,BIOLOGY,Science,International,Rejected,Female,19.0,2023-01-27 21:01:03.052543
+STU00095,History,Arts & Humanities,Home,Rejected,Male,19.0,2023-01-28 00:20:25.020850
+STU00096,Chemistry,Science,Home,Enrolled,Male,22.0,2023-01-28 03:39:46.989157
+STU00097,Civil Engineering,Engineering,International,Rejected,Male,23.0,2023-01-28 06:59:08.957464
+STU00098,Sociology,Social Sciences,Home,Enrolled,Male,23.0,2023-01-28 10:18:30.925771
+STU00099,Chemical Engineering,Engineering,Home,Rejected,Female,25.0,2023-01-28 13:37:52.894078
+STU00100,Engineering,Engineering,International,Rejected,Male,25.0,2023-01-28 16:57:14.862385
+STU00101,English,Arts & Humanities,International,Rejected,Female,20.0,2023-01-28 20:16:36.830692
+STU00102,Medicine,Clinical Medicine,International,Rejected,Male,21.0,2023-01-28 23:35:58.798999
+STU00103,Medicine,Clinical Medicine,International,Rejected,Male,21.0,2023-01-29 02:55:20.767306
+STU00104,Sociology,Social Sciences,International,Enrolled,Male,,2023-01-29 06:14:42.735613
+STU00105,Physics,Science,International,Enrolled,Male,19.0,2023-01-29 09:34:04.703919
+STU00106,Politics,Social Sciences,Home,Enrolled,Male,21.0,2023-01-29 12:53:26.672226
+STU00107,Classics,Arts & Humanities,Home,Enrolled,Male,24.0,2023-01-29 16:12:48.640533
+STU00108,Biology,Science,Home,Enrolled,Female,23.0,2023-01-29 19:32:10.608840
+STU00109,Biology,Science,Home,Rejected,Female,21.0,2023-01-29 22:51:32.577147
+STU00110,Chemical Engineering,Engineering,Home,Enrolled,,,2023-01-30 02:10:54.545454
+STU00111,Engineering,Engineering,Home,Enrolled,Female,22.0,2023-01-30 05:30:16.513761
+STU00112,Physics,Science,Home,Enrolled,,19.0,
+STU00113,Economics,Social Sciences,International,Rejected,Male,23.0,2023-01-30 12:09:00.450375
+STU00114,Mathematics,Science,Home,Enrolled,Female,19.0,2023-01-30 15:28:22.418682
+STU00115,Engineering,Engineering,Home,Rejected,Male,23.0,2023-01-30 18:47:44.386989
+STU00116,Engineering,Engineering,Home,Enrolled,Female,18.0,2023-01-30 22:07:06.355296
+STU00117,Computer Science,Science,Home,Enrolled,Female,21.0,2023-01-31 01:26:28.323603
+STU00118,Politics,Social Sciences,International,Rejected,Female,23.0,2023-01-31 04:45:50.291909
+STU00119,Psychology,Social Sciences,Home,Rejected,Non-binary,25.0,2023-01-31 08:05:12.260216
+STU00120,Music,Arts & Humanities,International,Rejected,Female,18.0,2023-01-31 11:24:34.228523
+STU00121,Veterinary Medicine,Clinical Medicine,International,Rejected,Male,25.0,2023-01-31 14:43:56.196830
+STU00122,Sociology,Social Sciences,International,Rejected,Female,25.0,2023-01-31 18:03:18.165137
+STU00123,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Non-binary,23.0,2023-01-31 21:22:40.133444
+STU00124,SOCIOLOGY,Social Sciences,Home,Enrolled,Male,24.0,2023-02-01 00:42:02.101751
+STU00125,English,Arts & Humanities,International,Enrolled,Female,18.0,2023-02-01 04:01:24.070058
+STU00126,Computer Science,Science,Home,Enrolled,Male,22.0,2023-02-01 07:20:46.038365
+STU00127,English,Arts & Humanities,Home,Enrolled,Female,23.0,2023-02-01 10:40:08.006672
+STU00128,Engineering,Engineering,Home,Enrolled,Female,18.0,2023-02-01 13:59:29.974979
+STU00129,Engineering,Engineering,International,Enrolled,Male,23.0,
+STU00130,Pharmacology,Clinical Medicine,International,Rejected,Female,23.0,2023-02-01 20:38:13.911592
+STU00131,Computer Science,Science,International,Enrolled,Male,20.0,2023-02-01 23:57:35.879899
+STU00132,History,Arts & Humanities,Home,Enrolled,Male,18.0,2023-02-02 03:16:57.848206
+STU00133,Engineering,Engineering,Home,Enrolled,Female,24.0,2023-02-02 06:36:19.816513
+STU00134,Chemical Engineering,Engineering,INTERNATIONAL,Enrolled,Male,20.0,2023-02-02 09:55:41.784820
+STU00135,Philosophy,Arts & Humanities,International,Enrolled,Female,24.0,2023-02-02 13:15:03.753127
+STU00136,Economics,Social Sciences,Home,Enrolled,Non-binary,19.0,2023-02-02 16:34:25.721434
+STU00137,History,Arts & Humanities,Home,Enrolled,Male,22.0,2023-02-02 19:53:47.689741
+STU00138,Medicine,Clinical Medicine,Home,Enrolled,Non-binary,23.0,2023-02-02 23:13:09.658048
+STU00139,Veterinary Medicine,Clinical Medicine,International,Rejected,Female,22.0,2023-02-03 02:32:31.626355
+STU00140,Classics,Arts & Humanities,Home,Enrolled,Male,25.0,2023-02-03 05:51:53.594662
+STU00141,Economics,Social Sciences,Home,Enrolled,Male,23.0,2023-02-03 09:11:15.562969
+STU00142,Psychology,Social Sciences,Home,Rejected,Female,22.0,2023-02-03 12:30:37.531276
+STU00143,Physics,Science,International,Enrolled,Female,22.0,2023-02-03 15:49:59.499582
+STU00144,ENGINEERING,Engineering,Home,Enrolled,Female,23.0,2023-02-03 19:09:21.467889
+STU00145,Biology,Science,International,Rejected,Male,21.0,2023-02-03 22:28:43.436196
+STU00146,Mathematics,Science,Home,Enrolled,Male,25.0,2023-02-04 01:48:05.404503
+STU00147,Sociology,Social Sciences,International,Rejected,Female,25.0,2023-02-04 05:07:27.372810
+STU00148,Medicine,Clinical Medicine,International,Enrolled,Female,20.0,2023-02-04 08:26:49.341117
+STU00149,Mathematics,Science,Home,Enrolled,,25.0,2023-02-04 11:46:11.309424
+STU00150,Computer Science,Science,Home,Enrolled,Female,22.0,2023-02-04 15:05:33.277731
+STU00151,Civil Engineering,Engineering,Home,Rejected,Female,20.0,2023-02-04 18:24:55.246038
+STU00152,Politics,Social Sciences,Home,Enrolled,Non-binary,19.0,2023-02-04 21:44:17.214345
+STU00153,Biology,Science,International,Rejected,Female,20.0,2023-02-05 01:03:39.182652
+STU00154,Sociology,Social Sciences,International,Enrolled,Male,18.0,2023-02-05 04:23:01.150959
+STU00155,Classics,Arts & Humanities,International,Enrolled,Female,19.0,2023-02-05 07:42:23.119266
+STU00156,Physics,Science,Home,Rejected,Male,,2023-02-05 11:01:45.087572
+STU00157,Computer Science,Science,Home,Enrolled,Male,19.0,2023-02-05 14:21:07.055879
+STU00158,Psychology,Social Sciences,Home,Enrolled,Male,18.0,2023-02-05 17:40:29.024186
+STU00159,Physics,Science,International,enrolled,Female,22.0,2023-02-05 20:59:50.992493
+STU00160,Physics,Science,Home,Enrolled,Female,22.0,2023-02-06 00:19:12.960800
+STU00161,History,Arts & Humanities,Home,Enrolled,Female,21.0,2023-02-06 03:38:34.929107
+STU00162,Politics,Social Sciences,International,Rejected,Male,21.0,2023-02-06 06:57:56.897414
+STU00163,Physics,Science,International,Rejected,Male,23.0,2023-02-06 10:17:18.865721
+STU00164,Engineering,Engineering,Home,Enrolled,Male,19.0,2023-02-06 13:36:40.834028
+STU00165,Engineering,Engineering,International,Enrolled,Female,20.0,2023-02-06 16:56:02.802335
+STU00166,History,Arts & Humanities,Home,Enrolled,Male,18.0,2023-02-06 20:15:24.770642
+STU00167,Physics,Science,International,enrolled,Male,19.0,2023-02-06 23:34:46.738949
+STU00168,Geography,Social Sciences,Home,Enrolled,Female,23.0,2023-02-07 02:54:08.707256
+STU00169,Mathematics,Science,Home,Enrolled,Female,22.0,2023-02-07 06:13:30.675562
+STU00170,Music,Arts & Humanities,International,Rejected,Female,22.0,2023-02-07 09:32:52.643869
+STU00171,Engineering,Engineering,Home,Rejected,Female,20.0,2023-02-07 12:52:14.612176
+STU00172,Psychology,Social Sciences,Home,Rejected,Female,23.0,2023-02-07 16:11:36.580483
+STU00173,Economics,Social Sciences,Home,Enrolled,Female,18.0,2023-02-07 19:30:58.548790
+STU00174,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Female,25.0,2023-02-07 22:50:20.517097
+STU00175,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Male,18.0,2023-02-08 02:09:42.485404
+STU00176,Mathematics,Science,Home,Enrolled,Female,18.0,2023-02-08 05:29:04.453711
+STU00177,Philosophy,Arts & Humanities,Home,Rejected,Male,24.0,2023-02-08 08:48:26.422018
+STU00178,Biology,Science,International,Enrolled,Female,25.0,2023-02-08 12:07:48.390325
+STU00179,Biology,Science,Home,Enrolled,Male,22.0,2023-02-08 15:27:10.358632
+STU00180,Economics,Social Sciences,Home,Rejected,Male,21.0,2023-02-08 18:46:32.326939
+STU00181,Medicine,Clinical Medicine,International,Enrolled,Female,19.0,2023-02-08 22:05:54.295246
+STU00182,Geography,Social Sciences,International,Rejected,Male,25.0,2023-02-09 01:25:16.263552
+STU00183,Civil Engineering,Engineering,Home,Rejected,Male,19.0,2023-02-09 04:44:38.231859
+STU00184,PHILOSOPHY,Arts & Humanities,International,Enrolled,Female,25.0,2023-02-09 08:04:00.200166
+STU00185,Chemistry,Science,Home,Rejected,Female,22.0,2023-02-09 11:23:22.168473
+STU00186,Computer Science,Science,Home,Enrolled,Female,25.0,2023-02-09 14:42:44.136780
+STU00187,Engineering,Engineering,International,Rejected,Male,21.0,2023-02-09 18:02:06.105087
+STU00188,Physics,Science,International,Enrolled,Male,22.0,2023-02-09 21:21:28.073394
+STU00189,Mathematics,Science,Home,Enrolled,Female,24.0,2023-02-10 00:40:50.041701
+STU00190,Biology,Science,International,Enrolled,Female,23.0,2023-02-10 04:00:12.010008
+STU00191,Biology,Science,Home,Rejected,Non-binary,23.0,2023-02-10 07:19:33.978315
+STU00192,Physics,Science,Home,Enrolled,Male,18.0,2023-02-10 10:38:55.946622
+STU00193,Physics,Science,Home,Enrolled,Female,19.0,2023-02-10 13:58:17.914929
+STU00194,Engineering,Engineering,Home,Enrolled,Female,25.0,2023-02-10 17:17:39.883236
+STU00195,Biology,Science,International,Rejected,Female,22.0,2023-02-10 20:37:01.851542
+STU00196,Engineering,Engineering,Home,Rejected,Female,20.0,2023-02-10 23:56:23.819849
+STU00197,Psychology,Social Sciences,International,Enrolled,Male,24.0,2023-02-11 03:15:45.788156
+STU00198,History,Arts & Humanities,Home,Enrolled,Non-binary,19.0,2023-02-11 06:35:07.756463
+STU00199,Civil Engineering,Engineering,Home,Rejected,Female,19.0,
+STU00200,Engineering,Engineering,Home,Enrolled,Female,25.0,2023-02-11 13:13:51.693077
+STU00201,Chemical Engineering,Engineering,Home,Enrolled,Male,24.0,2023-02-11 16:33:13.661384
+STU00202,Engineering,Engineering,Home,Rejected,Male,21.0,2023-02-11 19:52:35.629691
+STU00203,Engineering,Engineering,Home,Enrolled,Female,25.0,2023-02-11 23:11:57.597998
+STU00204,Mathematics,Science,International,Enrolled,Female,23.0,2023-02-12 02:31:19.566305
+STU00205,Economics,Social Sciences,Home,Enrolled,Non-binary,24.0,2023-02-12 05:50:41.534612
+STU00206,Mathematics,Science,Home,Enrolled,Male,24.0,2023-02-12 09:10:03.502919
+STU00207,Chemistry,Science,International,Enrolled,Female,23.0,2023-02-12 12:29:25.471226
+STU00208,History,Arts & Humanities,Home,Enrolled,Female,21.0,2023-02-12 15:48:47.439532
+STU00209,Computer Science,Science,Home,Enrolled,Male,19.0,2023-02-12 19:08:09.407839
+STU00210,Civil Engineering,Engineering,Home,Rejected,Male,25.0,2023-02-12 22:27:31.376146
+STU00211,Physics,Science,Home,Enrolled,Female,25.0,2023-02-13 01:46:53.344453
+STU00212,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,19.0,2023-02-13 05:06:15.312760
+STU00213,Biology,Science,Home,Enrolled,Male,20.0,2023-02-13 08:25:37.281067
+STU00214,Biology,Science,Home,Enrolled,Male,24.0,2023-02-13 11:44:59.249374
+STU00215,Chemical Engineering,Engineering,Home,Enrolled,Female,19.0,2023-02-13 15:04:21.217681
+STU00216,Civil Engineering,Engineering,Home,Enrolled,Male,24.0,2023-02-13 18:23:43.185988
+STU00217,Psychology,Social Sciences,International,Rejected,Male,18.0,2023-02-13 21:43:05.154295
+STU00218,Medicine,Clinical Medicine,Home,Enrolled,Female,20.0,2023-02-14 01:02:27.122602
+STU00219,Mathematics,Science,International,Enrolled,Female,18.0,2023-02-14 04:21:49.090909
+STU00220,Computer Science,Science,Home,Rejected,Female,20.0,2023-02-14 07:41:11.059216
+STU00221,Chemical Engineering,Engineering,Home,Rejected,Non-binary,22.0,
+STU00222,Psychology,Social Sciences,Home,Enrolled,,25.0,2023-02-14 14:19:54.995829
+STU00223,Sociology,Social Sciences,International,Enrolled,Female,23.0,2023-02-14 17:39:16.964136
+STU00224,Medicine,Clinical Medicine,Home,Rejected,Female,22.0,2023-02-14 20:58:38.932443
+STU00225,History,Arts & Humanities,Home,Enrolled,Male,24.0,2023-02-15 00:18:00.900750
+STU00226,Psychology,Social Sciences,Home,Enrolled,Male,23.0,2023-02-15 03:37:22.869057
+STU00227,Economics,Social Sciences,Home,Rejected,Male,18.0,2023-02-15 06:56:44.837364
+STU00228,Engineering,Engineering,INTERNATIONAL,Rejected,Female,24.0,2023-02-15 10:16:06.805671
+STU00229,Mathematics,Science,Home,Rejected,Female,22.0,2023-02-15 13:35:28.773978
+STU00230,Chemical Engineering,Engineering,Home,Enrolled,Male,18.0,2023-02-15 16:54:50.742285
+STU00231,History,Arts & Humanities,International,Rejected,Male,,2023-02-15 20:14:12.710592
+STU00232,Mathematics,Science,Home,Enrolled,Female,23.0,2023-02-15 23:33:34.678899
+STU00233,Psychology,Social Sciences,International,Enrolled,Male,22.0,2023-02-16 02:52:56.647206
+STU00234,Geography,Social Sciences,Home,Enrolled,Female,21.0,2023-02-16 06:12:18.615512
+STU00235,Physics,Science,International,Rejected,Female,24.0,2023-02-16 09:31:40.583819
+STU00236,Classics,Arts & Humanities,International,Rejected,Male,24.0,2023-02-16 12:51:02.552126
+STU00237,Engineering,Engineering,Home,Rejected,Female,24.0,2023-02-16 16:10:24.520433
+STU00238,Physics,Science,Home,Enrolled,Female,20.0,2023-02-16 19:29:46.488740
+STU00239,Psychology,Social Sciences,Home,Enrolled,Male,21.0,2023-02-16 22:49:08.457047
+STU00240,Politics,Social Sciences,International,Enrolled,Female,23.0,2023-02-17 02:08:30.425354
+STU00241,Biology,Science,Home,Enrolled,Female,20.0,2023-02-17 05:27:52.393661
+STU00242,Psychology,Social Sciences,International,Enrolled,Male,20.0,2023-02-17 08:47:14.361968
+STU00243,Sociology,Social Sciences,Home,Rejected,Male,19.0,2023-02-17 12:06:36.330275
+STU00244,Engineering,Engineering,International,Rejected,Male,20.0,2023-02-17 15:25:58.298582
+STU00245,Mathematics,Science,Home,Enrolled,Male,25.0,2023-02-17 18:45:20.266889
+STU00246,Medicine,Clinical Medicine,International,Rejected,Male,20.0,2023-02-17 22:04:42.235195
+STU00247,Physics,Science,Home,Enrolled,Male,24.0,2023-02-18 01:24:04.203502
+STU00248,Chemistry,Science,International,Rejected,Female,24.0,2023-02-18 04:43:26.171809
+STU00249,Geography,Social Sciences,Home,Enrolled,Male,25.0,2023-02-18 08:02:48.140116
+STU00250,Computer Science,Science,Home,Enrolled,Female,25.0,2023-02-18 11:22:10.108423
+STU00251,Computer Science,Science,Home,Enrolled,Male,21.0,2023-02-18 14:41:32.076730
+STU00252,MEDICINE,Clinical Medicine,Home,Enrolled,Female,18.0,2023-02-18 18:00:54.045037
+STU00253,History,Arts & Humanities,Home,Enroled,Female,21.0,2023-02-18 21:20:16.013344
+STU00254,Biology,Science,International,Enrolled,Female,22.0,2023-02-19 00:39:37.981651
+STU00255,Civil Engineering,Engineering,Home,Enrolled,Male,23.0,2023-02-19 03:58:59.949958
+STU00256,Civil Engineering,Engineering,International,ENROLLED,Male,18.0,2023-02-19 07:18:21.918265
+STU00257,History,Arts & Humanities,Home,Enrolled,Female,23.0,2023-02-19 10:37:43.886572
+STU00258,Mathematics,Science,Home,Enrolled,Male,25.0,2023-02-19 13:57:05.854879
+STU00259,Physics,Science,International,Rejected,Female,19.0,2023-02-19 17:16:27.823185
+STU00260,Engineering,Engineering,Home,Rejected,Female,22.0,2023-02-19 20:35:49.791492
+STU00261,Engineering,Engineering,home,Rejected,Female,19.0,2023-02-19 23:55:11.759799
+STU00262,Engineering,Engineering,International,Enrolled,Male,19.0,2023-02-20 03:14:33.728106
+STU00263,Computer Science,Science,international,Rejected,Female,19.0,2023-02-20 06:33:55.696413
+STU00264,Mathematics,Science,Home,Rejected,Male,22.0,2023-02-20 09:53:17.664720
+STU00265,Engineering,Engineering,Home,Rejected,Female,23.0,2023-02-20 13:12:39.633027
+STU00266,Medicine,Clinical Medicine,Home,Enrolled,Male,18.0,2023-02-20 16:32:01.601334
+STU00267,Psychology,Social Sciences,International,Enrolled,Male,25.0,2023-02-20 19:51:23.569641
+STU00268,Civil Engineering,Engineering,International,Enrolled,Male,23.0,2023-02-20 23:10:45.537948
+STU00269,Politics,Social Sciences,International,Enrolled,Female,22.0,2023-02-21 02:30:07.506255
+STU00270,English,Arts & Humanities,Home,Enrolled,Male,18.0,2023-02-21 05:49:29.474562
+STU00271,Pharmacology,Clinical Medicine,International,Enrolled,Female,22.0,2023-02-21 09:08:51.442869
+STU00272,Computer Science,Science,Home,Rejected,Male,22.0,2023-02-21 12:28:13.411175
+STU00273,Geography,Social Sciences,Home,Rejected,Female,25.0,2023-02-21 15:47:35.379482
+STU00274,ENGINEERING,Engineering,International,Enrolled,Female,18.0,2023-02-21 19:06:57.347789
+STU00275,Music,Arts & Humanities,Home,Enrolled,Female,22.0,2023-02-21 22:26:19.316096
+STU00276,Classics,Arts & Humanities,International,Rejected,Female,18.0,2023-02-22 01:45:41.284403
+STU00277,Philosophy,Arts & Humanities,International,Enrolled,,19.0,2023-02-22 05:05:03.252710
+STU00278,Psychology,Social Sciences,Home,Rejected,Female,19.0,2023-02-22 08:24:25.221017
+STU00279,Physics,Science,Home,Enrolled,Female,22.0,2023-02-22 11:43:47.189324
+STU00280,Psychology,Social Sciences,International,Rejected,Male,22.0,2023-02-22 15:03:09.157631
+STU00281,Medicine,Clinical Medicine,Home,Rejected,Male,22.0,2023-02-22 18:22:31.125938
+STU00282,Mathematics,Science,Home,Enrolled,Female,,2023-02-22 21:41:53.094245
+STU00283,Politics,Social Sciences,Home,Enrolled,Female,20.0,2023-02-23 01:01:15.062552
+STU00284,Physics,Science,International,Rejected,Male,20.0,2023-02-23 04:20:37.030859
+STU00285,Economics,Social Sciences,Home,Enrolled,Female,23.0,2023-02-23 07:39:58.999165
+STU00286,Engineering,Engineering,Home,Rejected,Female,22.0,2023-02-23 10:59:20.967472
+STU00287,ENGINEERING,Engineering,Home,Rejected,Male,21.0,2023-02-23 14:18:42.935779
+STU00288,Philosophy,Arts & Humanities,International,Enrolled,Female,18.0,2023-02-23 17:38:04.904086
+STU00289,Biology,Science,Home,Rejected,Female,19.0,2023-02-23 20:57:26.872393
+STU00290,Physics,Science,Home,Enrolled,Female,20.0,2023-02-24 00:16:48.840700
+STU00291,English,Arts & Humanities,International,Enrolled,Female,24.0,2023-02-24 03:36:10.809007
+STU00292,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,21.0,2023-02-24 06:55:32.777314
+STU00293,Politics,Social Sciences,International,Enrolled,Male,20.0,2023-02-24 10:14:54.745621
+STU00294,Physics,Science,Home,Enrolled,Female,23.0,2023-02-24 13:34:16.713928
+STU00295,Medicine,Clinical Medicine,International,Rejected,Male,22.0,2023-02-24 16:53:38.682235
+STU00296,Psychology,Social Sciences,International,Enrolled,Male,19.0,2023-02-24 20:13:00.650542
+STU00297,Biology,Science,Home,Enrolled,Non-binary,25.0,2023-02-24 23:32:22.618849
+STU00298,English,Arts & Humanities,Home,Enrolled,Female,22.0,2023-02-25 02:51:44.587155
+STU00299,History,Arts & Humanities,Home,Enrolled,Non-binary,21.0,2023-02-25 06:11:06.555462
+STU00300,Engineering,Engineering,International,Enrolled,Female,24.0,2023-02-25 09:30:28.523769
+STU00301,Engineering,Engineering,International,Enrolled,Female,20.0,2023-02-25 12:49:50.492076
+STU00302,Sociology,Social Sciences,International,Enrolled,Male,24.0,2023-02-25 16:09:12.460383
+STU00303,Engineering,Engineering,Home,Rejected,Male,,2023-02-25 19:28:34.428690
+STU00304,Psychology,Social Sciences,Home,Enrolled,Female,25.0,2023-02-25 22:47:56.396997
+STU00305,Music,Arts & Humanities,International,Enrolled,Male,23.0,2023-02-26 02:07:18.365304
+STU00306,Classics,Arts & Humanities,Home,Enrolled,Male,18.0,2023-02-26 05:26:40.333611
+STU00307,Computer Science,Science,Home,Rejected,Male,23.0,2023-02-26 08:46:02.301918
+STU00308,Engineering,Engineering,International,Enrolled,Male,24.0,2023-02-26 12:05:24.270225
+STU00309,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,22.0,2023-02-26 15:24:46.238532
+STU00310,Engineering,Engineering,Home,Enrolled,Male,22.0,2023-02-26 18:44:08.206839
+STU00311,Engineering,Engineering,Home,Enrolled,Female,22.0,2023-02-26 22:03:30.175145
+STU00312,Mathematics,Science,Home,Rejected,Female,24.0,2023-02-27 01:22:52.143452
+STU00313,Physics,Science,International,Rejected,Male,21.0,2023-02-27 04:42:14.111759
+STU00314,Philosophy,Arts & Humanities,International,Enrolled,,21.0,2023-02-27 08:01:36.080066
+STU00315,Veterinary Medicine,Clinical Medicine,Home,Rejected,Male,20.0,2023-02-27 11:20:58.048373
+STU00316,Engineering,Engineering,International,Rejected,Female,18.0,2023-02-27 14:40:20.016680
+STU00317,Chemistry,Science,Home,Enrolled,Female,19.0,2023-02-27 17:59:41.984987
+STU00318,Politics,Social Sciences,Home,Enrolled,Female,,2023-02-27 21:19:03.953294
+STU00319,Music,Arts & Humanities,Home,Enrolled,Female,19.0,2023-02-28 00:38:25.921601
+STU00320,Engineering,Engineering,Home,Rejected,Male,23.0,2023-02-28 03:57:47.889908
+STU00321,Engineering,Engineering,Home,Enrolled,Female,22.0,2023-02-28 07:17:09.858215
+STU00322,Civil Engineering,Engineering,Home,Enrolled,Male,18.0,2023-02-28 10:36:31.826522
+STU00323,Pharmacology,Clinical Medicine,International,Rejected,Female,19.0,2023-02-28 13:55:53.794829
+STU00324,Engineering,Engineering,Home,Enrolled,Male,21.0,2023-02-28 17:15:15.763135
+STU00325,English,Arts & Humanities,Home,Rejected,Female,19.0,2023-02-28 20:34:37.731442
+STU00326,Medicine,Clinical Medicine,Home,Enrolled,Female,19.0,2023-02-28 23:53:59.699749
+STU00327,Computer Science,Science,Home,Rejected,Female,20.0,2023-03-01 03:13:21.668056
+STU00328,Engineering,Engineering,Home,Rejected,Male,20.0,2023-03-01 06:32:43.636363
+STU00329,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,20.0,2023-03-01 09:52:05.604670
+STU00330,Engineering,Engineering,International,Enrolled,Female,25.0,2023-03-01 13:11:27.572977
+STU00331,PHARMACOLOGY,Clinical Medicine,Home,Rejected,Male,19.0,2023-03-01 16:30:49.541284
+STU00332,Physics,Science,International,Enrolled,Female,22.0,2023-03-01 19:50:11.509591
+STU00333,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,23.0,2023-03-01 23:09:33.477898
+STU00334,Classics,Arts & Humanities,Home,Enrolled,Female,19.0,2023-03-02 02:28:55.446205
+STU00335,Engineering,Engineering,International,Rejected,Female,18.0,2023-03-02 05:48:17.414512
+STU00336,Engineering,Engineering,Home,Enrolled,Female,23.0,2023-03-02 09:07:39.382819
+STU00337,Physics,Science,International,Enrolled,Male,22.0,2023-03-02 12:27:01.351125
+STU00338,Pharmacology,Clinical Medicine,Home,Rejected,Male,22.0,2023-03-02 15:46:23.319432
+STU00339,Biology,Science,Home,Enrolled,Male,19.0,2023-03-02 19:05:45.287739
+STU00340,Computer Science,Science,International,Rejected,Female,21.0,2023-03-02 22:25:07.256046
+STU00341,Veterinary Medicine,Clinical Medicine,International,Rejected,Male,20.0,2023-03-03 01:44:29.224353
+STU00342,Physics,Science,Home,Enrolled,Male,19.0,2023-03-03 05:03:51.192660
+STU00343,ENGLISH,Arts & Humanities,Home,Enrolled,Male,24.0,2023-03-03 08:23:13.160967
+STU00344,Mathematics,Science,Home,Rejected,Female,19.0,2023-03-03 11:42:35.129274
+STU00345,Computer Science,Science,Home,Enrolled,Male,22.0,2023-03-03 15:01:57.097581
+STU00346,Engineering,Engineering,International,Rejected,Male,19.0,2023-03-03 18:21:19.065888
+STU00347,Chemical Engineering,Engineering,International,Rejected,Female,22.0,2023-03-03 21:40:41.034195
+STU00348,Physics,Science,International,Enrolled,Female,18.0,2023-03-04 01:00:03.002502
+STU00349,Politics,Social Sciences,International,Enrolled,Female,20.0,2023-03-04 04:19:24.970809
+STU00350,Chemistry,Science,international,Enrolled,Female,18.0,2023-03-04 07:38:46.939115
+STU00351,Civil Engineering,Engineering,International,Enrolled,Male,24.0,2023-03-04 10:58:08.907422
+STU00352,Sociology,Social Sciences,Home,Enrolled,Male,23.0,2023-03-04 14:17:30.875729
+STU00353,Engineering,Engineering,Home,Rejected,Female,18.0,2023-03-04 17:36:52.844036
+STU00354,Classics,Arts & Humanities,Home,Rejected,Male,25.0,2023-03-04 20:56:14.812343
+STU00355,Chemical Engineering,Engineering,Home,Rejected,Male,24.0,2023-03-05 00:15:36.780650
+STU00356,Mathematics,Science,International,Enroled,Female,19.0,2023-03-05 03:34:58.748957
+STU00357,Chemical Engineering,Engineering,Home,Rejected,Male,18.0,2023-03-05 06:54:20.717264
+STU00358,Physics,Science,Home,Rejected,Female,25.0,2023-03-05 10:13:42.685571
+STU00359,Classics,Arts & Humanities,Home,Rejected,Male,23.0,2023-03-05 13:33:04.653878
+STU00360,Biology,Science,INTERNATIONAL,Enrolled,Female,22.0,2023-03-05 16:52:26.622185
+STU00361,Medicine,Clinical Medicine,Home,Rejected,Male,19.0,2023-03-05 20:11:48.590492
+STU00362,Computer Science,Science,Home,Enrolled,Male,23.0,2023-03-05 23:31:10.558798
+STU00363,Psychology,Social Sciences,Home,enrolled,Male,25.0,2023-03-06 02:50:32.527105
+STU00364,Economics,Social Sciences,Home,Enrolled,Non-binary,22.0,2023-03-06 06:09:54.495412
+STU00365,Chemistry,Science,International,Rejected,Female,20.0,2023-03-06 09:29:16.463719
+STU00366,Psychology,Social Sciences,International,Rejected,Female,24.0,2023-03-06 12:48:38.432026
+STU00367,Physics,Science,Home,Enrolled,Male,22.0,2023-03-06 16:08:00.400333
+STU00368,Medicine,Clinical Medicine,International,Rejected,Female,19.0,2023-03-06 19:27:22.368640
+STU00369,English,Arts & Humanities,International,Rejected,Female,23.0,2023-03-06 22:46:44.336947
+STU00370,Engineering,Engineering,Home,Enrolled,Male,25.0,2023-03-07 02:06:06.305254
+STU00371,Sociology,Social Sciences,International,Rejected,Male,20.0,2023-03-07 05:25:28.273561
+STU00372,Medicine,Clinical Medicine,Home,Enrolled,Male,18.0,2023-03-07 08:44:50.241868
+STU00373,Medicine,Clinical Medicine,Home,Rejected,,21.0,2023-03-07 12:04:12.210175
+STU00374,Geography,Social Sciences,International,Enrolled,Female,19.0,2023-03-07 15:23:34.178482
+STU00375,Computer Science,Science,Home,Enrolled,Male,22.0,2023-03-07 18:42:56.146788
+STU00376,History,Arts & Humanities,International,Enrolled,Female,25.0,2023-03-07 22:02:18.115095
+STU00377,Geography,Social Sciences,International,Rejected,Female,18.0,2023-03-08 01:21:40.083402
+STU00378,Computer Science,Science,Home,Enrolled,Female,18.0,2023-03-08 04:41:02.051709
+STU00379,Computer Science,Science,Home,Enrolled,Female,18.0,2023-03-08 08:00:24.020016
+STU00380,Engineering,Engineering,International,Enrolled,Male,21.0,2023-03-08 11:19:45.988323
+STU00381,Medicine,Clinical Medicine,Home,Rejected,Female,25.0,2023-03-08 14:39:07.956630
+STU00382,Computer Science,Science,International,Enrolled,Male,20.0,2023-03-08 17:58:29.924937
+STU00383,Computer Science,Science,Home,Enrolled,Female,21.0,2023-03-08 21:17:51.893244
+STU00384,Chemistry,Science,Home,Enrolled,Male,18.0,2023-03-09 00:37:13.861551
+STU00385,Chemistry,Science,Home,Rejected,Female,25.0,2023-03-09 03:56:35.829858
+STU00386,Computer Science,Science,Home,Enrolled,Female,25.0,2023-03-09 07:15:57.798165
+STU00387,Classics,Arts & Humanities,Home,Rejected,Male,18.0,2023-03-09 10:35:19.766472
+STU00388,Biology,Science,International,Enrolled,Male,20.0,2023-03-09 13:54:41.734778
+STU00389,Engineering,Engineering,Home,Enrolled,Male,,2023-03-09 17:14:03.703085
+STU00390,Geography,Social Sciences,International,Enrolled,Male,22.0,2023-03-09 20:33:25.671392
+STU00391,Engineering,Engineering,International,Enrolled,Female,19.0,2023-03-09 23:52:47.639699
+STU00392,Psychology,Social Sciences,International,Rejected,Female,20.0,2023-03-10 03:12:09.608006
+STU00393,Computer Science,Science,HOME,Enrolled,Male,19.0,2023-03-10 06:31:31.576313
+STU00394,Psychology,Social Sciences,Home,Enrolled,Male,19.0,2023-03-10 09:50:53.544620
+STU00395,English,Arts & Humanities,Home,Enrolled,Male,21.0,2023-03-10 13:10:15.512927
+STU00396,Computer Science,Science,Home,Enroled,Female,21.0,2023-03-10 16:29:37.481234
+STU00397,Biology,Science,HOME,Enrolled,Female,24.0,2023-03-10 19:48:59.449541
+STU00398,Psychology,Social Sciences,Home,Enrolled,Male,20.0,2023-03-10 23:08:21.417848
+STU00399,Politics,Social Sciences,Home,Rejected,Female,21.0,2023-03-11 02:27:43.386155
+STU00400,Economics,Social Sciences,Home,Enrolled,Female,20.0,2023-03-11 05:47:05.354462
+STU00401,Biology,Science,International,Enrolled,Male,19.0,2023-03-11 09:06:27.322768
+STU00402,Mathematics,Science,international,Enrolled,Female,24.0,2023-03-11 12:25:49.291075
+STU00403,Economics,Social Sciences,International,Enrolled,Male,23.0,2023-03-11 15:45:11.259382
+STU00404,Engineering,Engineering,International,Enrolled,Female,25.0,2023-03-11 19:04:33.227689
+STU00405,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,18.0,2023-03-11 22:23:55.195996
+STU00406,Mathematics,Science,International,Rejected,Female,24.0,2023-03-12 01:43:17.164303
+STU00407,Philosophy,Arts & Humanities,Home,Enrolled,Female,18.0,2023-03-12 05:02:39.132610
+STU00408,Sociology,Social Sciences,International,Enrolled,Female,19.0,2023-03-12 08:22:01.100917
+STU00409,Politics,Social Sciences,Home,Rejected,Female,,2023-03-12 11:41:23.069224
+STU00410,Computer Science,Science,Home,Enrolled,Male,19.0,2023-03-12 15:00:45.037531
+STU00411,Pharmacology,Clinical Medicine,Home,Enrolled,Male,22.0,2023-03-12 18:20:07.005838
+STU00412,Medicine,Clinical Medicine,Home,Enrolled,Female,25.0,2023-03-12 21:39:28.974145
+STU00413,Geography,Social Sciences,International,Enrolled,Male,21.0,2023-03-13 00:58:50.942452
+STU00414,Physics,Science,International,Enrolled,Female,22.0,2023-03-13 04:18:12.910758
+STU00415,Mathematics,Science,Home,Enrolled,Female,24.0,2023-03-13 07:37:34.879065
+STU00416,English,Arts & Humanities,Home,Enrolled,Male,20.0,2023-03-13 10:56:56.847372
+STU00417,Physics,Science,Home,Rejected,Female,18.0,2023-03-13 14:16:18.815679
+STU00418,Economics,Social Sciences,Home,Enrolled,Female,25.0,2023-03-13 17:35:40.783986
+STU00419,Engineering,Engineering,Home,Enrolled,Female,19.0,2023-03-13 20:55:02.752293
+STU00420,History,Arts & Humanities,International,Enrolled,Female,22.0,2023-03-14 00:14:24.720600
+STU00421,Chemistry,Science,Home,Rejected,Male,18.0,2023-03-14 03:33:46.688907
+STU00422,Politics,Social Sciences,International,Enrolled,Male,21.0,2023-03-14 06:53:08.657214
+STU00423,Mathematics,Science,International,Enrolled,Female,19.0,2023-03-14 10:12:30.625521
+STU00424,Medicine,Clinical Medicine,Home,Rejected,Male,21.0,2023-03-14 13:31:52.593828
+STU00425,Economics,Social Sciences,Home,Enrolled,Female,21.0,2023-03-14 16:51:14.562135
+STU00426,Physics,Science,Home,Enrolled,Male,21.0,2023-03-14 20:10:36.530442
+STU00427,Geography,Social Sciences,Home,Rejected,Female,20.0,2023-03-14 23:29:58.498748
+STU00428,English,Arts & Humanities,Home,Rejected,Male,25.0,2023-03-15 02:49:20.467055
+STU00429,Medicine,Clinical Medicine,Home,Enrolled,Male,20.0,2023-03-15 06:08:42.435362
+STU00430,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,18.0,2023-03-15 09:28:04.403669
+STU00431,Philosophy,Arts & Humanities,Home,Enrolled,Female,23.0,2023-03-15 12:47:26.371976
+STU00432,BIOLOGY,Science,International,Rejected,Female,24.0,2023-03-15 16:06:48.340283
+STU00433,Mathematics,Science,International,Rejected,Male,25.0,2023-03-15 19:26:10.308590
+STU00434,Chemical Engineering,Engineering,International,Rejected,Male,18.0,2023-03-15 22:45:32.276897
+STU00435,Sociology,Social Sciences,International,Enrolled,Female,20.0,2023-03-16 02:04:54.245204
+STU00436,HISTORY,Arts & Humanities,Home,Rejected,Female,18.0,2023-03-16 05:24:16.213511
+STU00437,Physics,Science,Home,Enrolled,Male,19.0,2023-03-16 08:43:38.181818
+STU00438,Engineering,Engineering,Home,Enrolled,Male,21.0,2023-03-16 12:03:00.150125
+STU00439,Biology,Science,Home,Rejected,Male,23.0,2023-03-16 15:22:22.118432
+STU00440,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,23.0,2023-03-16 18:41:44.086738
+STU00441,Geography,Social Sciences,Home,Enrolled,Male,19.0,2023-03-16 22:01:06.055045
+STU00442,Civil Engineering,Engineering,Home,Rejected,Female,19.0,2023-03-17 01:20:28.023352
+STU00443,Psychology,Social Sciences,Home,Rejected,Male,24.0,2023-03-17 04:39:49.991659
+STU00444,Chemical Engineering,Engineering,Home,Enrolled,Male,24.0,2023-03-17 07:59:11.959966
+STU00445,Engineering,Engineering,Home,Enrolled,Male,19.0,2023-03-17 11:18:33.928273
+STU00446,Psychology,Social Sciences,Home,Enrolled,Female,25.0,2023-03-17 14:37:55.896580
+STU00447,Medicine,Clinical Medicine,Home,Enrolled,Female,24.0,2023-03-17 17:57:17.864887
+STU00448,Economics,Social Sciences,International,Enrolled,Male,25.0,2023-03-17 21:16:39.833194
+STU00449,Pharmacology,Clinical Medicine,Home,Rejected,Female,23.0,2023-03-18 00:36:01.801501
+STU00450,Psychology,Social Sciences,Home,Enrolled,Female,21.0,2023-03-18 03:55:23.769808
+STU00451,Engineering,Engineering,Home,Enrolled,Male,22.0,2023-03-18 07:14:45.738115
+STU00452,Medicine,Clinical Medicine,Home,Rejected,Female,20.0,2023-03-18 10:34:07.706422
+STU00453,Economics,Social Sciences,International,Enrolled,Male,18.0,2023-03-18 13:53:29.674728
+STU00454,Physics,Science,Home,Enrolled,Male,19.0,2023-03-18 17:12:51.643035
+STU00455,Physics,Science,Home,Enrolled,Male,25.0,2023-03-18 20:32:13.611342
+STU00456,Politics,Social Sciences,Home,Enrolled,Female,23.0,2023-03-18 23:51:35.579649
+STU00457,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,22.0,2023-03-19 03:10:57.547956
+STU00458,Sociology,Social Sciences,Home,Enrolled,Female,20.0,2023-03-19 06:30:19.516263
+STU00459,Politics,Social Sciences,International,Rejected,Female,21.0,2023-03-19 09:49:41.484570
+STU00460,Physics,Science,Home,Enrolled,Female,25.0,2023-03-19 13:09:03.452877
+STU00461,History,Arts & Humanities,International,Enrolled,Male,21.0,2023-03-19 16:28:25.421184
+STU00462,Computer Science,Science,Home,Enrolled,Female,25.0,2023-03-19 19:47:47.389491
+STU00463,Physics,Science,Home,Enrolled,Male,24.0,2023-03-19 23:07:09.357798
+STU00464,Computer Science,Science,Home,Enrolled,Male,21.0,2023-03-20 02:26:31.326105
+STU00465,Sociology,Social Sciences,Home,Enrolled,Male,24.0,2023-03-20 05:45:53.294412
+STU00466,Music,Arts & Humanities,International,Enrolled,Male,20.0,2023-03-20 09:05:15.262718
+STU00467,Physics,Science,international,Enrolled,Female,18.0,2023-03-20 12:24:37.231025
+STU00468,Medicine,Clinical Medicine,Home,Rejected,Female,18.0,2023-03-20 15:43:59.199332
+STU00469,Medicine,Clinical Medicine,Home,Rejected,Female,25.0,2023-03-20 19:03:21.167639
+STU00470,History,Arts & Humanities,International,Rejected,Male,18.0,2023-03-20 22:22:43.135946
+STU00471,Chemistry,Science,Home,Rejected,Non-binary,24.0,2023-03-21 01:42:05.104253
+STU00472,Sociology,Social Sciences,International,Rejected,Male,19.0,2023-03-21 05:01:27.072560
+STU00473,Chemistry,Science,International,Rejected,Male,21.0,2023-03-21 08:20:49.040867
+STU00474,Mathematics,Science,International,Rejected,Male,18.0,2023-03-21 11:40:11.009174
+STU00475,Biology,Science,Home,Enrolled,Female,24.0,2023-03-21 14:59:32.977481
+STU00476,Engineering,Engineering,Home,Enrolled,Male,20.0,2023-03-21 18:18:54.945788
+STU00477,Psychology,Social Sciences,Home,Enrolled,Male,21.0,2023-03-21 21:38:16.914095
+STU00478,Medicine,Clinical Medicine,Home,Rejected,Male,19.0,2023-03-22 00:57:38.882402
+STU00479,Engineering,Engineering,Home,Enrolled,Male,,2023-03-22 04:17:00.850708
+STU00480,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Male,20.0,2023-03-22 07:36:22.819015
+STU00481,Computer Science,Science,Home,Enrolled,Male,18.0,2023-03-22 10:55:44.787322
+STU00482,English,Arts & Humanities,International,Enrolled,,25.0,2023-03-22 14:15:06.755629
+STU00483,Computer Science,Science,Home,Enrolled,Female,24.0,2023-03-22 17:34:28.723936
+STU00484,Medicine,Clinical Medicine,International,Rejected,Female,23.0,2023-03-22 20:53:50.692243
+STU00485,Engineering,Engineering,International,Rejected,Female,18.0,2023-03-23 00:13:12.660550
+STU00486,Chemical Engineering,Engineering,Home,Enrolled,Female,19.0,2023-03-23 03:32:34.628857
+STU00487,Biology,Science,International,Rejected,Non-binary,23.0,2023-03-23 06:51:56.597164
+STU00488,Medicine,Clinical Medicine,Home,Rejected,Female,22.0,2023-03-23 10:11:18.565471
+STU00489,Sociology,Social Sciences,International,Rejected,Female,22.0,
+STU00490,Psychology,Social Sciences,Home,Rejected,Male,21.0,2023-03-23 16:50:02.502085
+STU00491,Physics,Science,International,Rejected,Male,19.0,2023-03-23 20:09:24.470391
+STU00492,Physics,Science,International,Enrolled,Female,23.0,2023-03-23 23:28:46.438698
+STU00493,Biology,Science,Home,Enrolled,Female,18.0,2023-03-24 02:48:08.407005
+STU00494,English,Arts & Humanities,Home,Enrolled,Male,23.0,2023-03-24 06:07:30.375312
+STU00495,Computer Science,Science,Home,Rejected,Male,19.0,2023-03-24 09:26:52.343619
+STU00496,Medicine,Clinical Medicine,Home,Rejected,Female,25.0,2023-03-24 12:46:14.311926
+STU00497,Chemistry,Science,Home,Enrolled,Female,23.0,2023-03-24 16:05:36.280233
+STU00498,Mathematics,Science,Home,Rejected,Male,19.0,2023-03-24 19:24:58.248540
+STU00499,Economics,Social Sciences,Home,Enrolled,Male,21.0,2023-03-24 22:44:20.216847
+STU00500,Classics,Arts & Humanities,Home,Rejected,Male,23.0,2023-03-25 02:03:42.185154
+STU00501,Politics,Social Sciences,Home,Rejected,Male,19.0,2023-03-25 05:23:04.153461
+STU00502,English,Arts & Humanities,Home,Enrolled,Male,21.0,2023-03-25 08:42:26.121768
+STU00503,Chemistry,Science,Home,Rejected,Male,21.0,2023-03-25 12:01:48.090075
+STU00504,PSYCHOLOGY,Social Sciences,Home,Rejected,,22.0,2023-03-25 15:21:10.058381
+STU00505,English,Arts & Humanities,Home,Enrolled,Female,24.0,2023-03-25 18:40:32.026688
+STU00506,Politics,Social Sciences,International,Rejected,Male,19.0,2023-03-25 21:59:53.994995
+STU00507,Music,Arts & Humanities,International,Rejected,Male,25.0,
+STU00508,Biology,Science,Home,Enrolled,Female,19.0,2023-03-26 04:38:37.931609
+STU00509,History,Arts & Humanities,Home,Rejected,Female,22.0,2023-03-26 07:57:59.899916
+STU00510,Computer Science,Science,International,Enrolled,Female,23.0,2023-03-26 11:17:21.868223
+STU00511,Mathematics,Science,Home,Enrolled,Male,19.0,2023-03-26 14:36:43.836530
+STU00512,Computer Science,Science,International,Rejected,Male,25.0,2023-03-26 17:56:05.804837
+STU00513,Medicine,Clinical Medicine,Home,Rejected,Male,24.0,
+STU00514,COMPUTER SCIENCE,Science,International,Enrolled,Female,22.0,2023-03-27 00:34:49.741451
+STU00515,Medicine,Clinical Medicine,Home,Enrolled,Female,19.0,2023-03-27 03:54:11.709758
+STU00516,Pharmacology,Clinical Medicine,International,Rejected,Male,22.0,2023-03-27 07:13:33.678065
+STU00517,Physics,Science,International,Rejected,Non-binary,20.0,2023-03-27 10:32:55.646371
+STU00518,History,Arts & Humanities,HOME,Enrolled,Male,21.0,2023-03-27 13:52:17.614678
+STU00519,English,Arts & Humanities,International,Enrolled,Female,18.0,2023-03-27 17:11:39.582985
+STU00520,Sociology,Social Sciences,International,Enrolled,Male,20.0,2023-03-27 20:31:01.551292
+STU00521,Civil Engineering,Engineering,International,Enrolled,Female,24.0,2023-03-27 23:50:23.519599
+STU00522,Computer Science,Science,Home,Enrolled,Female,18.0,2023-03-28 03:09:45.487906
+STU00523,Politics,Social Sciences,Home,Enrolled,Male,19.0,2023-03-28 06:29:07.456213
+STU00524,Veterinary Medicine,Clinical Medicine,International,Rejected,Male,21.0,2023-03-28 09:48:29.424520
+STU00525,Politics,Social Sciences,International,Enrolled,Male,23.0,2023-03-28 13:07:51.392827
+STU00526,Medicine,Clinical Medicine,International,Rejected,Male,23.0,2023-03-28 16:27:13.361134
+STU00527,Chemical Engineering,Engineering,Home,Enrolled,Male,23.0,2023-03-28 19:46:35.329441
+STU00528,Mathematics,Science,International,Enrolled,Non-binary,25.0,2023-03-28 23:05:57.297748
+STU00529,English,Arts & Humanities,Home,Enrolled,Female,20.0,2023-03-29 02:25:19.266055
+STU00530,Music,Arts & Humanities,Home,Rejected,Non-binary,22.0,2023-03-29 05:44:41.234361
+STU00531,Classics,Arts & Humanities,Home,Rejected,Female,22.0,2023-03-29 09:04:03.202668
+STU00532,Geography,Social Sciences,INTERNATIONAL,Enrolled,Female,23.0,2023-03-29 12:23:25.170975
+STU00533,Psychology,Social Sciences,International,Enrolled,Female,18.0,2023-03-29 15:42:47.139282
+STU00534,Physics,Science,Home,Enrolled,Female,22.0,2023-03-29 19:02:09.107589
+STU00535,Medicine,Clinical Medicine,International,Rejected,Non-binary,20.0,2023-03-29 22:21:31.075896
+STU00536,VETERINARY MEDICINE,Clinical Medicine,Home,Rejected,Female,20.0,2023-03-30 01:40:53.044203
+STU00537,Mathematics,Science,International,Rejected,Female,22.0,2023-03-30 05:00:15.012510
+STU00538,Psychology,Social Sciences,Home,Rejected,Female,20.0,2023-03-30 08:19:36.980817
+STU00539,Medicine,Clinical Medicine,Home,Rejected,Non-binary,20.0,2023-03-30 11:38:58.949124
+STU00540,Classics,Arts & Humanities,Home,Enrolled,Female,19.0,2023-03-30 14:58:20.917431
+STU00541,Pharmacology,Clinical Medicine,Home,Rejected,Female,23.0,2023-03-30 18:17:42.885738
+STU00542,Chemical Engineering,Engineering,International,Enrolled,Female,25.0,2023-03-30 21:37:04.854045
+STU00543,Classics,Arts & Humanities,Home,Enrolled,Male,20.0,2023-03-31 00:56:26.822351
+STU00544,English,Arts & Humanities,International,Enrolled,Male,18.0,2023-03-31 04:15:48.790658
+STU00545,Computer Science,Science,International,Enrolled,Male,23.0,2023-03-31 07:35:10.758965
+STU00546,Geography,Social Sciences,International,Enrolled,Female,25.0,2023-03-31 10:54:32.727272
+STU00547,Chemical Engineering,Engineering,International,Rejected,,20.0,2023-03-31 14:13:54.695579
+STU00548,Chemistry,Science,Home,Rejected,Female,19.0,2023-03-31 17:33:16.663886
+STU00549,Medicine,Clinical Medicine,Home,Rejected,Male,24.0,2023-03-31 20:52:38.632193
+STU00550,History,Arts & Humanities,Home,Enrolled,Male,20.0,2023-04-01 00:12:00.600500
+STU00551,Medicine,Clinical Medicine,Home,Enrolled,Non-binary,23.0,2023-04-01 03:31:22.568807
+STU00552,Politics,Social Sciences,International,Rejected,Female,23.0,2023-04-01 06:50:44.537114
+STU00553,Philosophy,Arts & Humanities,Home,Enrolled,Male,22.0,2023-04-01 10:10:06.505421
+STU00554,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,22.0,2023-04-01 13:29:28.473728
+STU00555,Engineering,Engineering,Home,Rejected,Male,20.0,2023-04-01 16:48:50.442035
+STU00556,Psychology,Social Sciences,International,Enrolled,Male,25.0,2023-04-01 20:08:12.410341
+STU00557,Classics,Arts & Humanities,Home,Enrolled,Female,19.0,2023-04-01 23:27:34.378648
+STU00558,Civil Engineering,Engineering,Home,Enrolled,Female,18.0,2023-04-02 02:46:56.346955
+STU00559,Veterinary Medicine,Clinical Medicine,International,Enrolled,Male,19.0,2023-04-02 06:06:18.315262
+STU00560,COMPUTER SCIENCE,Science,International,Rejected,Non-binary,24.0,2023-04-02 09:25:40.283569
+STU00561,Biology,Science,Home,Enrolled,Female,21.0,2023-04-02 12:45:02.251876
+STU00562,Computer Science,Science,home,Rejected,Male,19.0,2023-04-02 16:04:24.220183
+STU00563,Economics,Social Sciences,Home,Rejected,Female,21.0,2023-04-02 19:23:46.188490
+STU00564,Computer Science,Science,Home,Rejected,Male,21.0,2023-04-02 22:43:08.156797
+STU00565,Engineering,Engineering,Home,Enrolled,Non-binary,22.0,2023-04-03 02:02:30.125104
+STU00566,Pharmacology,Clinical Medicine,Home,Rejected,Female,19.0,2023-04-03 05:21:52.093411
+STU00567,Philosophy,Arts & Humanities,Home,Rejected,Female,25.0,2023-04-03 08:41:14.061718
+STU00568,Chemical Engineering,Engineering,International,Enrolled,Female,19.0,2023-04-03 12:00:36.030025
+STU00569,Politics,Social Sciences,international,Enrolled,Male,24.0,2023-04-03 15:19:57.998331
+STU00570,Pharmacology,Clinical Medicine,Home,Rejected,Female,23.0,2023-04-03 18:39:19.966638
+STU00571,Medicine,Clinical Medicine,Home,Rejected,Female,18.0,2023-04-03 21:58:41.934945
+STU00572,Biology,Science,International,Enrolled,Male,23.0,2023-04-04 01:18:03.903252
+STU00573,MEDICINE,Clinical Medicine,Home,Rejected,Male,24.0,2023-04-04 04:37:25.871559
+STU00574,Chemical Engineering,Engineering,Home,Rejected,Male,23.0,2023-04-04 07:56:47.839866
+STU00575,Physics,Science,International,Enrolled,Female,,2023-04-04 11:16:09.808173
+STU00576,Veterinary Medicine,Clinical Medicine,International,Rejected,Male,22.0,2023-04-04 14:35:31.776480
+STU00577,SOCIOLOGY,Social Sciences,Home,Enrolled,Male,19.0,2023-04-04 17:54:53.744787
+STU00578,Economics,Social Sciences,Home,Rejected,Female,25.0,2023-04-04 21:14:15.713094
+STU00579,Biology,Science,International,Enrolled,Female,24.0,2023-04-05 00:33:37.681401
+STU00580,Medicine,Clinical Medicine,Home,Rejected,Female,22.0,2023-04-05 03:52:59.649708
+STU00581,Physics,Science,International,Enrolled,Female,24.0,2023-04-05 07:12:21.618015
+STU00582,Engineering,Engineering,International,Rejected,Female,24.0,2023-04-05 10:31:43.586321
+STU00583,Pharmacology,Clinical Medicine,International,Rejected,Female,19.0,2023-04-05 13:51:05.554628
+STU00584,Philosophy,Arts & Humanities,International,Rejected,Male,22.0,2023-04-05 17:10:27.522935
+STU00585,Engineering,Engineering,Home,Enrolled,Female,23.0,2023-04-05 20:29:49.491242
+STU00586,Physics,Science,Home,Enrolled,Female,24.0,2023-04-05 23:49:11.459549
+STU00587,Economics,Social Sciences,International,Enrolled,Female,24.0,2023-04-06 03:08:33.427856
+STU00588,Psychology,Social Sciences,Home,Enrolled,,22.0,2023-04-06 06:27:55.396163
+STU00589,Computer Science,Science,Home,Enrolled,Female,25.0,2023-04-06 09:47:17.364470
+STU00590,English,Arts & Humanities,Home,Enrolled,Female,20.0,2023-04-06 13:06:39.332777
+STU00591,Engineering,Engineering,Home,Enrolled,Female,24.0,2023-04-06 16:26:01.301084
+STU00592,Mathematics,Science,Home,Enrolled,,25.0,2023-04-06 19:45:23.269391
+STU00593,Mathematics,Science,Home,Rejected,Female,22.0,2023-04-06 23:04:45.237698
+STU00594,Veterinary Medicine,Clinical Medicine,International,Rejected,Male,22.0,2023-04-07 02:24:07.206005
+STU00595,Computer Science,Science,International,Rejected,Male,25.0,2023-04-07 05:43:29.174311
+STU00596,Engineering,Engineering,Home,Enrolled,Female,18.0,2023-04-07 09:02:51.142618
+STU00597,Medicine,Clinical Medicine,Home,Enrolled,Male,22.0,2023-04-07 12:22:13.110925
+STU00598,Physics,Science,Home,Enrolled,Female,25.0,2023-04-07 15:41:35.079232
+STU00599,English,Arts & Humanities,Home,Enrolled,Female,22.0,2023-04-07 19:00:57.047539
+STU00600,Chemical Engineering,Engineering,International,Enrolled,Female,25.0,2023-04-07 22:20:19.015846
+STU00601,Philosophy,Arts & Humanities,Home,Rejected,Female,21.0,2023-04-08 01:39:40.984153
+STU00602,Medicine,Clinical Medicine,Home,Rejected,Male,22.0,2023-04-08 04:59:02.952460
+STU00603,Economics,Social Sciences,Home,Enrolled,Female,19.0,2023-04-08 08:18:24.920767
+STU00604,Medicine,Clinical Medicine,Home,Enrolled,Male,23.0,2023-04-08 11:37:46.889074
+STU00605,Medicine,Clinical Medicine,International,Enrolled,,24.0,2023-04-08 14:57:08.857381
+STU00606,Politics,Social Sciences,Home,Rejected,Female,25.0,2023-04-08 18:16:30.825688
+STU00607,Economics,Social Sciences,International,Enrolled,Female,19.0,2023-04-08 21:35:52.793994
+STU00608,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Female,18.0,2023-04-09 00:55:14.762301
+STU00609,Philosophy,Arts & Humanities,Home,Rejected,Male,20.0,2023-04-09 04:14:36.730608
+STU00610,Physics,Science,International,Enrolled,Male,20.0,2023-04-09 07:33:58.698915
+STU00611,Medicine,Clinical Medicine,Home,Enrolled,Female,20.0,2023-04-09 10:53:20.667222
+STU00612,Computer Science,Science,International,Enrolled,Male,18.0,2023-04-09 14:12:42.635529
+STU00613,Psychology,Social Sciences,International,Rejected,Female,24.0,2023-04-09 17:32:04.603836
+STU00614,Economics,Social Sciences,Home,Enrolled,Male,23.0,2023-04-09 20:51:26.572143
+STU00615,Sociology,Social Sciences,Home,Rejected,Female,22.0,2023-04-10 00:10:48.540450
+STU00616,BIOLOGY,Science,International,Enrolled,Male,19.0,2023-04-10 03:30:10.508757
+STU00617,Medicine,Clinical Medicine,Home,Rejected,Female,20.0,2023-04-10 06:49:32.477064
+STU00618,Computer Science,Science,Home,Enrolled,Female,20.0,2023-04-10 10:08:54.445371
+STU00619,Medicine,Clinical Medicine,International,Rejected,Male,23.0,2023-04-10 13:28:16.413678
+STU00620,Physics,Science,Home,Enrolled,Female,22.0,2023-04-10 16:47:38.381984
+STU00621,Physics,Science,Home,Rejected,Male,23.0,2023-04-10 20:07:00.350291
+STU00622,Classics,Arts & Humanities,Home,Enrolled,Female,23.0,2023-04-10 23:26:22.318598
+STU00623,Mathematics,Science,International,Rejected,Male,18.0,2023-04-11 02:45:44.286905
+STU00624,Classics,Arts & Humanities,International,Enrolled,Female,22.0,2023-04-11 06:05:06.255212
+STU00625,Sociology,Social Sciences,International,Enrolled,Male,25.0,2023-04-11 09:24:28.223519
+STU00626,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Male,20.0,2023-04-11 12:43:50.191826
+STU00627,Mathematics,Science,International,Enrolled,Male,20.0,2023-04-11 16:03:12.160133
+STU00628,Physics,Science,Home,Enrolled,Female,21.0,2023-04-11 19:22:34.128440
+STU00629,Economics,Social Sciences,International,Rejected,Male,19.0,2023-04-11 22:41:56.096747
+STU00630,Medicine,Clinical Medicine,International,Rejected,Male,19.0,2023-04-12 02:01:18.065054
+STU00631,Civil Engineering,Engineering,Home,Enrolled,Male,20.0,2023-04-12 05:20:40.033361
+STU00632,Sociology,Social Sciences,Home,Enrolled,Male,25.0,2023-04-12 08:40:02.001668
+STU00633,Physics,Science,International,Enrolled,Male,23.0,2023-04-12 11:59:23.969974
+STU00634,Philosophy,Arts & Humanities,International,Enrolled,Male,25.0,2023-04-12 15:18:45.938281
+STU00635,Mathematics,Science,International,Enrolled,Male,23.0,2023-04-12 18:38:07.906588
+STU00636,Physics,Science,International,Rejected,Non-binary,22.0,2023-04-12 21:57:29.874895
+STU00637,Mathematics,Science,Home,Enrolled,Male,19.0,2023-04-13 01:16:51.843202
+STU00638,English,Arts & Humanities,Home,Enrolled,Female,20.0,2023-04-13 04:36:13.811509
+STU00639,Sociology,Social Sciences,Home,Enrolled,Male,22.0,2023-04-13 07:55:35.779816
+STU00640,Physics,Science,International,Enrolled,Female,20.0,2023-04-13 11:14:57.748123
+STU00641,Chemical Engineering,Engineering,Home,Rejected,,24.0,2023-04-13 14:34:19.716430
+STU00642,Psychology,Social Sciences,International,Rejected,Female,19.0,2023-04-13 17:53:41.684737
+STU00643,Medicine,Clinical Medicine,Home,Enrolled,Female,25.0,2023-04-13 21:13:03.653044
+STU00644,Classics,Arts & Humanities,Home,Enrolled,Female,18.0,2023-04-14 00:32:25.621351
+STU00645,Engineering,Engineering,International,Enrolled,Female,18.0,2023-04-14 03:51:47.589658
+STU00646,Economics,Social Sciences,International,Enrolled,Male,18.0,2023-04-14 07:11:09.557964
+STU00647,Engineering,Engineering,Home,Enrolled,Female,22.0,2023-04-14 10:30:31.526271
+STU00648,Psychology,Social Sciences,Home,Rejected,Female,22.0,2023-04-14 13:49:53.494578
+STU00649,Economics,Social Sciences,Home,Enrolled,Male,19.0,2023-04-14 17:09:15.462885
+STU00650,Biology,Science,Home,Enrolled,Female,21.0,2023-04-14 20:28:37.431192
+STU00651,Mathematics,Science,Home,Enrolled,Male,21.0,2023-04-14 23:47:59.399499
+STU00652,HISTORY,Arts & Humanities,Home,Enrolled,Female,23.0,2023-04-15 03:07:21.367806
+STU00653,Chemical Engineering,Engineering,Home,Enrolled,Female,20.0,2023-04-15 06:26:43.336113
+STU00654,Economics,Social Sciences,International,Enrolled,Female,22.0,2023-04-15 09:46:05.304420
+STU00655,Pharmacology,Clinical Medicine,International,Enrolled,Male,23.0,2023-04-15 13:05:27.272727
+STU00656,Chemistry,Science,Home,Rejected,Male,21.0,2023-04-15 16:24:49.241034
+STU00657,History,Arts & Humanities,International,Enrolled,Male,19.0,2023-04-15 19:44:11.209341
+STU00658,Politics,Social Sciences,Home,Enrolled,Female,18.0,2023-04-15 23:03:33.177648
+STU00659,HISTORY,Arts & Humanities,International,Enrolled,Non-binary,21.0,2023-04-16 02:22:55.145954
+STU00660,Music,Arts & Humanities,International,Enrolled,Male,20.0,2023-04-16 05:42:17.114261
+STU00661,Psychology,Social Sciences,International,Enrolled,Male,18.0,2023-04-16 09:01:39.082568
+STU00662,Computer Science,Science,Home,Enrolled,Male,19.0,2023-04-16 12:21:01.050875
+STU00663,Civil Engineering,Engineering,Home,Enrolled,Female,25.0,2023-04-16 15:40:23.019182
+STU00664,Classics,Arts & Humanities,International,Rejected,Non-binary,20.0,2023-04-16 18:59:44.987489
+STU00665,Veterinary Medicine,Clinical Medicine,Home,Rejected,Male,19.0,2023-04-16 22:19:06.955796
+STU00666,Psychology,Social Sciences,Home,Enrolled,Female,23.0,2023-04-17 01:38:28.924103
+STU00667,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Female,24.0,2023-04-17 04:57:50.892410
+STU00668,Physics,Science,Home,Enrolled,Male,21.0,2023-04-17 08:17:12.860717
+STU00669,Sociology,Social Sciences,Home,Rejected,Female,23.0,2023-04-17 11:36:34.829024
+STU00670,Biology,Science,Home,Enrolled,Male,19.0,2023-04-17 14:55:56.797331
+STU00671,Biology,Science,International,Enrolled,Female,25.0,2023-04-17 18:15:18.765638
+STU00672,Engineering,Engineering,International,Rejected,Female,22.0,2023-04-17 21:34:40.733944
+STU00673,CIVIL ENGINEERING,Engineering,Home,Rejected,Female,18.0,2023-04-18 00:54:02.702251
+STU00674,Computer Science,Science,International,Enrolled,Female,25.0,2023-04-18 04:13:24.670558
+STU00675,Politics,Social Sciences,Home,Enrolled,Male,22.0,2023-04-18 07:32:46.638865
+STU00676,Psychology,Social Sciences,International,Rejected,Male,22.0,2023-04-18 10:52:08.607172
+STU00677,Medicine,Clinical Medicine,International,Rejected,Female,25.0,2023-04-18 14:11:30.575479
+STU00678,Chemical Engineering,Engineering,Home,Rejected,Male,24.0,2023-04-18 17:30:52.543786
+STU00679,Mathematics,Science,Home,Enrolled,Male,24.0,2023-04-18 20:50:14.512093
+STU00680,Mathematics,Science,Home,Enrolled,Female,19.0,2023-04-19 00:09:36.480400
+STU00681,Geography,Social Sciences,Home,Rejected,Male,25.0,2023-04-19 03:28:58.448707
+STU00682,Mathematics,Science,Home,Enrolled,Female,23.0,2023-04-19 06:48:20.417014
+STU00683,Mathematics,Science,International,Enrolled,Female,25.0,2023-04-19 10:07:42.385321
+STU00684,History,Arts & Humanities,International,Rejected,Female,24.0,
+STU00685,English,Arts & Humanities,Home,Rejected,Male,19.0,
+STU00686,Biology,Science,Home,Enrolled,Male,24.0,2023-04-19 20:05:48.290241
+STU00687,Psychology,Social Sciences,International,Rejected,Male,19.0,2023-04-19 23:25:10.258548
+STU00688,Computer Science,Science,Home,Enrolled,Male,20.0,2023-04-20 02:44:32.226855
+STU00689,Physics,Science,Home,Rejected,Male,21.0,2023-04-20 06:03:54.195162
+STU00690,Medicine,Clinical Medicine,Home,Enrolled,Male,24.0,2023-04-20 09:23:16.163469
+STU00691,Medicine,Clinical Medicine,Home,Rejected,Female,24.0,2023-04-20 12:42:38.131776
+STU00692,Biology,Science,Home,Rejected,Male,22.0,2023-04-20 16:02:00.100083
+STU00693,Medicine,Clinical Medicine,International,Rejected,Male,22.0,2023-04-20 19:21:22.068390
+STU00694,Engineering,Engineering,Home,Enrolled,Female,24.0,2023-04-20 22:40:44.036697
+STU00695,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Male,24.0,2023-04-21 02:00:06.005004
+STU00696,Politics,Social Sciences,Home,Rejected,Female,22.0,2023-04-21 05:19:27.973311
+STU00697,Geography,Social Sciences,Home,Enrolled,Non-binary,25.0,2023-04-21 08:38:49.941618
+STU00698,Engineering,Engineering,Home,Rejected,Male,22.0,
+STU00699,Biology,Science,International,Rejected,Male,21.0,2023-04-21 15:17:33.878231
+STU00700,SOCIOLOGY,Social Sciences,Home,Rejected,Male,20.0,2023-04-21 18:36:55.846538
+STU00701,Politics,Social Sciences,Home,Enrolled,Female,18.0,2023-04-21 21:56:17.814845
+STU00702,ENGINEERING,Engineering,International,Rejected,Female,25.0,2023-04-22 01:15:39.783152
+STU00703,Pharmacology,Clinical Medicine,International,Rejected,Non-binary,20.0,2023-04-22 04:35:01.751459
+STU00704,History,Arts & Humanities,Home,Enrolled,Female,23.0,2023-04-22 07:54:23.719766
+STU00705,Mathematics,Science,Home,Enrolled,Male,19.0,2023-04-22 11:13:45.688073
+STU00706,Computer Science,Science,International,Enrolled,Male,25.0,2023-04-22 14:33:07.656380
+STU00707,Medicine,Clinical Medicine,Home,Enrolled,Male,21.0,2023-04-22 17:52:29.624687
+STU00708,Psychology,Social Sciences,Home,Enrolled,Male,25.0,2023-04-22 21:11:51.592994
+STU00709,Computer Science,Science,Home,Enrolled,Female,22.0,2023-04-23 00:31:13.561301
+STU00710,Classics,Arts & Humanities,Home,Rejected,Female,18.0,2023-04-23 03:50:35.529608
+STU00711,Medicine,Clinical Medicine,Home,Rejected,Male,18.0,2023-04-23 07:09:57.497914
+STU00712,Medicine,Clinical Medicine,Home,Rejected,Male,19.0,2023-04-23 10:29:19.466221
+STU00713,Chemical Engineering,Engineering,Home,Enrolled,Female,23.0,2023-04-23 13:48:41.434528
+STU00714,Economics,Social Sciences,Home,Enrolled,Male,25.0,2023-04-23 17:08:03.402835
+STU00715,Economics,Social Sciences,Home,Enrolled,Male,18.0,2023-04-23 20:27:25.371142
+STU00716,History,Arts & Humanities,Home,Enrolled,Male,22.0,2023-04-23 23:46:47.339449
+STU00717,History,Arts & Humanities,Home,Enrolled,Female,20.0,2023-04-24 03:06:09.307756
+STU00718,Biology,Science,Home,Rejected,Female,20.0,2023-04-24 06:25:31.276063
+STU00719,Computer Science,Science,Home,Rejected,Male,24.0,2023-04-24 09:44:53.244370
+STU00720,PHYSICS,Science,Home,Rejected,Male,19.0,2023-04-24 13:04:15.212677
+STU00721,Philosophy,Arts & Humanities,International,Enrolled,Male,25.0,2023-04-24 16:23:37.180984
+STU00722,Chemical Engineering,Engineering,Home,Enrolled,Female,25.0,2023-04-24 19:42:59.149291
+STU00723,Engineering,Engineering,Home,enrolled,Male,20.0,2023-04-24 23:02:21.117597
+STU00724,Psychology,Social Sciences,Home,Enrolled,Female,24.0,2023-04-25 02:21:43.085904
+STU00725,Chemical Engineering,Engineering,Home,Enrolled,Male,24.0,2023-04-25 05:41:05.054211
+STU00726,Civil Engineering,Engineering,Home,Enrolled,Female,23.0,2023-04-25 09:00:27.022518
+STU00727,Geography,Social Sciences,International,Enrolled,Female,22.0,2023-04-25 12:19:48.990825
+STU00728,Physics,Science,International,Enrolled,Male,18.0,2023-04-25 15:39:10.959132
+STU00729,History,Arts & Humanities,Home,Enrolled,Female,20.0,2023-04-25 18:58:32.927439
+STU00730,Medicine,Clinical Medicine,International,Enrolled,,23.0,2023-04-25 22:17:54.895746
+STU00731,Economics,Social Sciences,International,Enrolled,Female,18.0,2023-04-26 01:37:16.864053
+STU00732,Politics,Social Sciences,Home,Enrolled,Male,23.0,2023-04-26 04:56:38.832360
+STU00733,Engineering,Engineering,Home,Enrolled,Male,24.0,2023-04-26 08:16:00.800667
+STU00734,Mathematics,Science,Home,ENROLLED,Non-binary,23.0,2023-04-26 11:35:22.768974
+STU00735,Psychology,Social Sciences,Home,Enrolled,Female,18.0,2023-04-26 14:54:44.737281
+STU00736,Politics,Social Sciences,International,Rejected,Male,21.0,2023-04-26 18:14:06.705587
+STU00737,Economics,Social Sciences,International,Enrolled,Female,22.0,2023-04-26 21:33:28.673894
+STU00738,Philosophy,Arts & Humanities,Home,Enrolled,Female,19.0,2023-04-27 00:52:50.642201
+STU00739,Computer Science,Science,International,Rejected,Female,19.0,2023-04-27 04:12:12.610508
+STU00740,Computer Science,Science,Home,Rejected,Female,18.0,2023-04-27 07:31:34.578815
+STU00741,Geography,Social Sciences,Home,Rejected,Female,18.0,2023-04-27 10:50:56.547122
+STU00742,Engineering,Engineering,International,Enrolled,Female,24.0,2023-04-27 14:10:18.515429
+STU00743,Computer Science,Science,International,Rejected,Male,24.0,2023-04-27 17:29:40.483736
+STU00744,Medicine,Clinical Medicine,International,Enrolled,Male,25.0,2023-04-27 20:49:02.452043
+STU00745,Computer Science,Science,Home,Enrolled,Female,23.0,2023-04-28 00:08:24.420350
+STU00746,Chemical Engineering,Engineering,Home,Enrolled,Female,24.0,2023-04-28 03:27:46.388657
+STU00747,Pharmacology,Clinical Medicine,International,Rejected,Male,19.0,2023-04-28 06:47:08.356964
+STU00748,Psychology,Social Sciences,Home,Enrolled,Male,19.0,2023-04-28 10:06:30.325271
+STU00749,Biology,Science,International,Rejected,Male,21.0,2023-04-28 13:25:52.293577
+STU00750,Computer Science,Science,International,Enrolled,Male,23.0,2023-04-28 16:45:14.261884
+STU00751,Computer Science,Science,Home,Rejected,Male,22.0,2023-04-28 20:04:36.230191
+STU00752,Chemical Engineering,Engineering,International,Enrolled,Female,24.0,2023-04-28 23:23:58.198498
+STU00753,Chemistry,Science,International,Rejected,Female,19.0,2023-04-29 02:43:20.166805
+STU00754,Sociology,Social Sciences,Home,Enrolled,Male,21.0,2023-04-29 06:02:42.135112
+STU00755,Civil Engineering,Engineering,International,Enrolled,Female,18.0,2023-04-29 09:22:04.103419
+STU00756,Geography,Social Sciences,Home,Enrolled,Male,24.0,2023-04-29 12:41:26.071726
+STU00757,Sociology,Social Sciences,Home,Enrolled,Female,19.0,2023-04-29 16:00:48.040033
+STU00758,Chemistry,Science,Home,Enrolled,Non-binary,19.0,2023-04-29 19:20:10.008340
+STU00759,Mathematics,Science,Home,Enroled,Female,22.0,2023-04-29 22:39:31.976647
+STU00760,Computer Science,Science,International,Rejected,Male,25.0,2023-04-30 01:58:53.944954
+STU00761,Medicine,Clinical Medicine,Home,Rejected,Male,23.0,2023-04-30 05:18:15.913261
+STU00762,Politics,Social Sciences,Home,Rejected,Male,22.0,2023-04-30 08:37:37.881567
+STU00763,Medicine,Clinical Medicine,Home,Rejected,Male,22.0,2023-04-30 11:56:59.849874
+STU00764,Mathematics,Science,Home,Enrolled,Male,23.0,2023-04-30 15:16:21.818181
+STU00765,Psychology,Social Sciences,International,Enrolled,Male,24.0,2023-04-30 18:35:43.786488
+STU00766,Engineering,Engineering,Home,Enrolled,Male,25.0,2023-04-30 21:55:05.754795
+STU00767,Biology,Science,Home,Enrolled,Female,20.0,2023-05-01 01:14:27.723102
+STU00768,Medicine,Clinical Medicine,International,Enrolled,Male,20.0,2023-05-01 04:33:49.691409
+STU00769,Classics,Arts & Humanities,Home,Rejected,Male,21.0,2023-05-01 07:53:11.659716
+STU00770,Chemical Engineering,Engineering,Home,Rejected,Female,25.0,2023-05-01 11:12:33.628023
+STU00771,Psychology,Social Sciences,Home,enrolled,Male,24.0,2023-05-01 14:31:55.596330
+STU00772,Physics,Science,International,Enrolled,Male,18.0,2023-05-01 17:51:17.564637
+STU00773,Mathematics,Science,International,Rejected,Male,23.0,2023-05-01 21:10:39.532944
+STU00774,Psychology,Social Sciences,Home,Rejected,Male,21.0,2023-05-02 00:30:01.501251
+STU00775,Psychology,Social Sciences,International,Enrolled,Male,22.0,2023-05-02 03:49:23.469557
+STU00776,Philosophy,Arts & Humanities,Home,Enrolled,Female,24.0,2023-05-02 07:08:45.437864
+STU00777,Civil Engineering,Engineering,International,Rejected,Female,19.0,2023-05-02 10:28:07.406171
+STU00778,Engineering,Engineering,International,Rejected,Female,24.0,2023-05-02 13:47:29.374478
+STU00779,BIOLOGY,Science,Home,Enrolled,Female,22.0,2023-05-02 17:06:51.342785
+STU00780,Classics,Arts & Humanities,Home,Rejected,Male,22.0,2023-05-02 20:26:13.311092
+STU00781,Pharmacology,Clinical Medicine,Home,Rejected,Female,21.0,2023-05-02 23:45:35.279399
+STU00782,Economics,Social Sciences,Home,Enrolled,Female,19.0,2023-05-03 03:04:57.247706
+STU00783,Medicine,Clinical Medicine,Home,Enrolled,Male,18.0,2023-05-03 06:24:19.216013
+STU00784,Economics,Social Sciences,International,Enrolled,Female,22.0,2023-05-03 09:43:41.184320
+STU00785,Physics,Science,Home,Enrolled,Male,24.0,2023-05-03 13:03:03.152627
+STU00786,Engineering,Engineering,International,Rejected,Male,18.0,2023-05-03 16:22:25.120934
+STU00787,Civil Engineering,Engineering,Home,Enrolled,Female,22.0,2023-05-03 19:41:47.089241
+STU00788,Physics,Science,Home,Rejected,Female,22.0,2023-05-03 23:01:09.057547
+STU00789,Psychology,Social Sciences,Home,Enrolled,Male,22.0,2023-05-04 02:20:31.025854
+STU00790,Chemistry,Science,International,Enrolled,Female,20.0,2023-05-04 05:39:52.994161
+STU00791,Engineering,Engineering,Home,Enrolled,Male,18.0,2023-05-04 08:59:14.962468
+STU00792,Economics,Social Sciences,Home,Rejected,Male,25.0,2023-05-04 12:18:36.930775
+STU00793,Engineering,Engineering,Home,ENROLLED,Male,18.0,2023-05-04 15:37:58.899082
+STU00794,Engineering,Engineering,International,Rejected,Female,19.0,2023-05-04 18:57:20.867389
+STU00795,Physics,Science,International,Enrolled,Male,22.0,2023-05-04 22:16:42.835696
+STU00796,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Male,24.0,2023-05-05 01:36:04.804003
+STU00797,Chemistry,Science,Home,Enrolled,Male,19.0,2023-05-05 04:55:26.772310
+STU00798,Engineering,Engineering,International,Rejected,Female,20.0,2023-05-05 08:14:48.740617
+STU00799,Economics,Social Sciences,Home,Rejected,Female,19.0,2023-05-05 11:34:10.708924
+STU00800,Pharmacology,Clinical Medicine,Home,Rejected,Male,22.0,2023-05-05 14:53:32.677231
+STU00801,Physics,Science,Home,Enrolled,Male,19.0,2023-05-05 18:12:54.645537
+STU00802,Computer Science,Science,International,Rejected,Female,19.0,2023-05-05 21:32:16.613844
+STU00803,Psychology,Social Sciences,Home,Enrolled,Male,23.0,2023-05-06 00:51:38.582151
+STU00804,Civil Engineering,Engineering,Home,Enrolled,Male,24.0,2023-05-06 04:11:00.550458
+STU00805,Economics,Social Sciences,Home,Enroled,Female,21.0,2023-05-06 07:30:22.518765
+STU00806,Music,Arts & Humanities,International,Rejected,,21.0,2023-05-06 10:49:44.487072
+STU00807,Sociology,Social Sciences,International,Rejected,Female,20.0,2023-05-06 14:09:06.455379
+STU00808,Computer Science,Science,International,Enrolled,Female,22.0,2023-05-06 17:28:28.423686
+STU00809,Psychology,Social Sciences,Home,Rejected,Male,22.0,2023-05-06 20:47:50.391993
+STU00810,SOCIOLOGY,Social Sciences,Home,Enrolled,Female,18.0,2023-05-07 00:07:12.360300
+STU00811,Biology,Science,Home,Enrolled,Non-binary,23.0,2023-05-07 03:26:34.328607
+STU00812,Computer Science,Science,INTERNATIONAL,Enrolled,Male,19.0,2023-05-07 06:45:56.296914
+STU00813,Mathematics,Science,International,Enrolled,Female,24.0,2023-05-07 10:05:18.265221
+STU00814,Medicine,Clinical Medicine,International,Rejected,Male,21.0,2023-05-07 13:24:40.233527
+STU00815,Psychology,Social Sciences,International,Enrolled,Female,20.0,2023-05-07 16:44:02.201834
+STU00816,Physics,Science,Home,Rejected,Male,23.0,2023-05-07 20:03:24.170141
+STU00817,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,18.0,2023-05-07 23:22:46.138448
+STU00818,History,Arts & Humanities,Home,Enrolled,Female,18.0,2023-05-08 02:42:08.106755
+STU00819,Medicine,Clinical Medicine,Home,Enrolled,Female,18.0,2023-05-08 06:01:30.075062
+STU00820,Medicine,Clinical Medicine,International,Rejected,Male,21.0,2023-05-08 09:20:52.043369
+STU00821,Pharmacology,Clinical Medicine,Home,Enrolled,Female,24.0,2023-05-08 12:40:14.011676
+STU00822,Chemistry,Science,International,Enrolled,Male,23.0,2023-05-08 15:59:35.979983
+STU00823,Geography,Social Sciences,Home,Enrolled,Female,19.0,2023-05-08 19:18:57.948290
+STU00824,Pharmacology,Clinical Medicine,International,Rejected,Male,21.0,2023-05-08 22:38:19.916597
+STU00825,Civil Engineering,Engineering,International,Enrolled,Female,24.0,2023-05-09 01:57:41.884904
+STU00826,Economics,Social Sciences,International,Enrolled,Male,,2023-05-09 05:17:03.853211
+STU00827,History,Arts & Humanities,Home,Enrolled,Female,22.0,2023-05-09 08:36:25.821517
+STU00828,Economics,Social Sciences,International,Rejected,Female,21.0,2023-05-09 11:55:47.789824
+STU00829,Psychology,Social Sciences,Home,Rejected,Female,20.0,2023-05-09 15:15:09.758131
+STU00830,Engineering,Engineering,Home,Enrolled,,23.0,2023-05-09 18:34:31.726438
+STU00831,Engineering,Engineering,Home,Rejected,Female,24.0,2023-05-09 21:53:53.694745
+STU00832,Biology,Science,Home,Enrolled,Female,22.0,2023-05-10 01:13:15.663052
+STU00833,Sociology,Social Sciences,Home,Enrolled,Male,25.0,2023-05-10 04:32:37.631359
+STU00834,Biology,Science,International,Enrolled,Male,24.0,2023-05-10 07:51:59.599666
+STU00835,Medicine,Clinical Medicine,International,Enrolled,Female,23.0,2023-05-10 11:11:21.567973
+STU00836,Chemistry,Science,Home,Rejected,Male,19.0,2023-05-10 14:30:43.536280
+STU00837,Geography,Social Sciences,International,Rejected,Non-binary,22.0,2023-05-10 17:50:05.504587
+STU00838,Music,Arts & Humanities,Home,Rejected,Female,23.0,2023-05-10 21:09:27.472894
+STU00839,Economics,Social Sciences,Home,Enrolled,Male,23.0,2023-05-11 00:28:49.441201
+STU00840,Chemical Engineering,Engineering,International,Rejected,Female,18.0,2023-05-11 03:48:11.409507
+STU00841,Computer Science,Science,Home,Rejected,Male,20.0,2023-05-11 07:07:33.377814
+STU00842,Medicine,Clinical Medicine,International,Enrolled,Female,20.0,2023-05-11 10:26:55.346121
+STU00843,Politics,Social Sciences,Home,Enrolled,Female,,2023-05-11 13:46:17.314428
+STU00844,Engineering,Engineering,International,Rejected,Male,22.0,2023-05-11 17:05:39.282735
+STU00845,Engineering,Engineering,International,Rejected,Male,19.0,2023-05-11 20:25:01.251042
+STU00846,Engineering,Engineering,Home,Rejected,Female,21.0,2023-05-11 23:44:23.219349
+STU00847,Computer Science,Science,Home,enrolled,Male,20.0,2023-05-12 03:03:45.187656
+STU00848,Computer Science,Science,International,Rejected,Male,24.0,2023-05-12 06:23:07.155963
+STU00849,Medicine,Clinical Medicine,Home,Rejected,Male,23.0,2023-05-12 09:42:29.124270
+STU00850,Medicine,Clinical Medicine,International,Rejected,Male,20.0,2023-05-12 13:01:51.092577
+STU00851,Engineering,Engineering,Home,Rejected,Female,23.0,2023-05-12 16:21:13.060884
+STU00852,History,Arts & Humanities,International,Rejected,Male,21.0,2023-05-12 19:40:35.029190
+STU00853,History,Arts & Humanities,International,Rejected,Male,23.0,2023-05-12 22:59:56.997497
+STU00854,Politics,Social Sciences,Home,Enrolled,Female,24.0,2023-05-13 02:19:18.965804
+STU00855,Engineering,Engineering,International,Enrolled,Female,21.0,2023-05-13 05:38:40.934111
+STU00856,Civil Engineering,Engineering,Home,Enrolled,Female,18.0,2023-05-13 08:58:02.902418
+STU00857,Medicine,Clinical Medicine,Home,Enrolled,Male,21.0,2023-05-13 12:17:24.870725
+STU00858,Biology,Science,Home,Enrolled,Male,25.0,2023-05-13 15:36:46.839032
+STU00859,Philosophy,Arts & Humanities,Home,Enrolled,Male,20.0,2023-05-13 18:56:08.807339
+STU00860,Politics,Social Sciences,International,Enrolled,Male,24.0,2023-05-13 22:15:30.775646
+STU00861,Engineering,Engineering,Home,Rejected,Female,20.0,2023-05-14 01:34:52.743953
+STU00862,Biology,Science,International,Enrolled,Non-binary,23.0,2023-05-14 04:54:14.712260
+STU00863,Medicine,Clinical Medicine,Home,Rejected,,19.0,2023-05-14 08:13:36.680567
+STU00864,Engineering,Engineering,Home,Rejected,Female,,2023-05-14 11:32:58.648874
+STU00865,History,Arts & Humanities,Home,Rejected,Male,25.0,2023-05-14 14:52:20.617180
+STU00866,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,25.0,2023-05-14 18:11:42.585487
+STU00867,Computer Science,Science,Home,Enrolled,Female,21.0,2023-05-14 21:31:04.553794
+STU00868,Computer Science,Science,Home,Rejected,Female,22.0,2023-05-15 00:50:26.522101
+STU00869,Music,Arts & Humanities,Home,Rejected,Male,25.0,2023-05-15 04:09:48.490408
+STU00870,Sociology,Social Sciences,International,Rejected,Male,24.0,2023-05-15 07:29:10.458715
+STU00871,Psychology,Social Sciences,Home,Enrolled,,21.0,2023-05-15 10:48:32.427022
+STU00872,Veterinary Medicine,Clinical Medicine,International,Enrolled,Female,22.0,2023-05-15 14:07:54.395329
+STU00873,Mathematics,Science,International,Enrolled,Female,21.0,2023-05-15 17:27:16.363636
+STU00874,History,Arts & Humanities,Home,Enrolled,Female,24.0,2023-05-15 20:46:38.331943
+STU00875,Engineering,Engineering,international,Rejected,Male,18.0,2023-05-16 00:06:00.300250
+STU00876,Politics,Social Sciences,Home,Rejected,Male,22.0,2023-05-16 03:25:22.268557
+STU00877,Physics,Science,Home,Enrolled,Female,25.0,2023-05-16 06:44:44.236864
+STU00878,Engineering,Engineering,Home,Rejected,Male,23.0,2023-05-16 10:04:06.205170
+STU00879,Music,Arts & Humanities,Home,Enrolled,Male,25.0,2023-05-16 13:23:28.173477
+STU00880,Biology,Science,International,Enrolled,Female,25.0,2023-05-16 16:42:50.141784
+STU00881,Physics,Science,Home,Enrolled,Female,23.0,2023-05-16 20:02:12.110091
+STU00882,Physics,Science,Home,Rejected,Male,24.0,2023-05-16 23:21:34.078398
+STU00883,English,Arts & Humanities,Home,Enrolled,Male,24.0,2023-05-17 02:40:56.046705
+STU00884,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,22.0,2023-05-17 06:00:18.015012
+STU00885,ENGINEERING,Engineering,Home,Enrolled,Male,18.0,
+STU00886,Geography,Social Sciences,International,Enrolled,Male,21.0,2023-05-17 12:39:01.951626
+STU00887,Mathematics,Science,Home,Enrolled,Male,23.0,2023-05-17 15:58:23.919933
+STU00888,Biology,Science,International,Rejected,Female,18.0,2023-05-17 19:17:45.888240
+STU00889,Computer Science,Science,International,Enrolled,Male,,2023-05-17 22:37:07.856547
+STU00890,Psychology,Social Sciences,Home,Rejected,Female,24.0,2023-05-18 01:56:29.824854
+STU00891,Politics,Social Sciences,International,Rejected,Female,24.0,2023-05-18 05:15:51.793160
+STU00892,Biology,Science,International,Rejected,Female,20.0,2023-05-18 08:35:13.761467
+STU00893,Physics,Science,Home,Enrolled,Male,18.0,2023-05-18 11:54:35.729774
+STU00894,Engineering,Engineering,Home,Rejected,Male,22.0,2023-05-18 15:13:57.698081
+STU00895,Mathematics,Science,Home,Enrolled,Male,25.0,2023-05-18 18:33:19.666388
+STU00896,Chemistry,Science,International,Rejected,Male,25.0,2023-05-18 21:52:41.634695
+STU00897,Economics,Social Sciences,Home,Enrolled,Male,23.0,2023-05-19 01:12:03.603002
+STU00898,Physics,Science,International,Enrolled,Male,24.0,2023-05-19 04:31:25.571309
+STU00899,Psychology,Social Sciences,Home,Enrolled,Female,19.0,2023-05-19 07:50:47.539616
+STU00900,Psychology,Social Sciences,International,Rejected,Male,20.0,2023-05-19 11:10:09.507923
+STU00901,Civil Engineering,Engineering,Home,Enrolled,Male,22.0,2023-05-19 14:29:31.476230
+STU00902,Computer Science,Science,Home,Enrolled,Male,24.0,2023-05-19 17:48:53.444537
+STU00903,Civil Engineering,Engineering,Home,Enrolled,Female,22.0,2023-05-19 21:08:15.412844
+STU00904,Geography,Social Sciences,Home,Enrolled,Female,22.0,2023-05-20 00:27:37.381150
+STU00905,Physics,Science,International,Rejected,Male,24.0,2023-05-20 03:46:59.349457
+STU00906,Psychology,Social Sciences,International,Enrolled,Female,23.0,2023-05-20 07:06:21.317764
+STU00907,Medicine,Clinical Medicine,International,Enrolled,Female,25.0,2023-05-20 10:25:43.286071
+STU00908,Medicine,Clinical Medicine,International,Rejected,Female,20.0,2023-05-20 13:45:05.254378
+STU00909,History,Arts & Humanities,Home,Rejected,Male,25.0,2023-05-20 17:04:27.222685
+STU00910,Psychology,Social Sciences,International,Enrolled,Female,20.0,2023-05-20 20:23:49.190992
+STU00911,Economics,Social Sciences,Home,enrolled,Female,20.0,2023-05-20 23:43:11.159299
+STU00912,Engineering,Engineering,International,ENROLLED,Female,22.0,2023-05-21 03:02:33.127606
+STU00913,Computer Science,Science,Home,Enrolled,Female,25.0,2023-05-21 06:21:55.095913
+STU00914,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Male,25.0,2023-05-21 09:41:17.064220
+STU00915,Psychology,Social Sciences,Home,Enrolled,Female,23.0,2023-05-21 13:00:39.032527
+STU00916,Computer Science,Science,Home,Rejected,Male,25.0,2023-05-21 16:20:01.000834
+STU00917,Politics,Social Sciences,International,Enrolled,Female,19.0,2023-05-21 19:39:22.969140
+STU00918,Politics,Social Sciences,Home,Rejected,Male,20.0,2023-05-21 22:58:44.937447
+STU00919,Geography,Social Sciences,Home,Enrolled,Female,19.0,2023-05-22 02:18:06.905754
+STU00920,Medicine,Clinical Medicine,Home,Rejected,Male,22.0,2023-05-22 05:37:28.874061
+STU00921,Geography,Social Sciences,Home,Enrolled,Female,20.0,2023-05-22 08:56:50.842368
+STU00922,Engineering,Engineering,Home,Rejected,Male,22.0,2023-05-22 12:16:12.810675
+STU00923,Politics,Social Sciences,Home,Enrolled,Female,21.0,2023-05-22 15:35:34.778982
+STU00924,Engineering,Engineering,Home,Enrolled,Male,18.0,2023-05-22 18:54:56.747289
+STU00925,Politics,Social Sciences,Home,Rejected,Female,20.0,2023-05-22 22:14:18.715596
+STU00926,Computer Science,Science,International,Enrolled,Female,19.0,2023-05-23 01:33:40.683903
+STU00927,Biology,Science,Home,Enrolled,Female,25.0,2023-05-23 04:53:02.652210
+STU00928,PSYCHOLOGY,Social Sciences,International,Enrolled,Female,23.0,2023-05-23 08:12:24.620517
+STU00929,Medicine,Clinical Medicine,International,Rejected,Female,19.0,2023-05-23 11:31:46.588824
+STU00930,Philosophy,Arts & Humanities,HOME,Enrolled,Male,19.0,2023-05-23 14:51:08.557130
+STU00931,Computer Science,Science,International,Enrolled,Male,20.0,2023-05-23 18:10:30.525437
+STU00932,Medicine,Clinical Medicine,Home,Rejected,Female,25.0,2023-05-23 21:29:52.493744
+STU00933,Mathematics,Science,Home,Enrolled,Male,25.0,2023-05-24 00:49:14.462051
+STU00934,Music,Arts & Humanities,Home,Enrolled,Non-binary,22.0,2023-05-24 04:08:36.430358
+STU00935,Sociology,Social Sciences,Home,Enrolled,Male,18.0,2023-05-24 07:27:58.398665
+STU00936,Chemical Engineering,Engineering,Home,Enrolled,Female,18.0,2023-05-24 10:47:20.366972
+STU00937,Sociology,Social Sciences,International,Rejected,Female,25.0,2023-05-24 14:06:42.335279
+STU00938,Engineering,Engineering,Home,Enrolled,Male,20.0,2023-05-24 17:26:04.303586
+STU00939,Pharmacology,Clinical Medicine,Home,Enrolled,Female,18.0,2023-05-24 20:45:26.271893
+STU00940,Physics,Science,Home,Enrolled,Male,22.0,2023-05-25 00:04:48.240200
+STU00941,Pharmacology,Clinical Medicine,Home,Rejected,Female,18.0,2023-05-25 03:24:10.208507
+STU00942,ECONOMICS,Social Sciences,Home,Enrolled,Non-binary,24.0,2023-05-25 06:43:32.176814
+STU00943,Veterinary Medicine,Clinical Medicine,International,Rejected,Male,22.0,2023-05-25 10:02:54.145120
+STU00944,Medicine,Clinical Medicine,Home,Enrolled,Male,24.0,2023-05-25 13:22:16.113427
+STU00945,Computer Science,Science,International,Enrolled,Female,21.0,2023-05-25 16:41:38.081734
+STU00946,Classics,Arts & Humanities,International,Rejected,Female,24.0,2023-05-25 20:01:00.050041
+STU00947,Chemical Engineering,Engineering,International,Rejected,Male,20.0,2023-05-25 23:20:22.018348
+STU00948,Music,Arts & Humanities,International,Enroled,Male,25.0,2023-05-26 02:39:43.986655
+STU00949,Chemical Engineering,Engineering,International,Rejected,Male,22.0,2023-05-26 05:59:05.954962
+STU00950,Engineering,Engineering,Home,Rejected,Male,20.0,2023-05-26 09:18:27.923269
+STU00951,Medicine,Clinical Medicine,Home,Enrolled,Non-binary,19.0,2023-05-26 12:37:49.891576
+STU00952,Civil Engineering,Engineering,Home,Rejected,Non-binary,21.0,2023-05-26 15:57:11.859883
+STU00953,Chemical Engineering,Engineering,Home,Enrolled,Male,24.0,2023-05-26 19:16:33.828190
+STU00954,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Female,24.0,2023-05-26 22:35:55.796497
+STU00955,Computer Science,Science,Home,Rejected,Female,24.0,2023-05-27 01:55:17.764804
+STU00956,Veterinary Medicine,Clinical Medicine,Home,Rejected,Male,20.0,2023-05-27 05:14:39.733110
+STU00957,English,Arts & Humanities,Home,Enrolled,Female,24.0,2023-05-27 08:34:01.701417
+STU00958,Sociology,Social Sciences,International,Enrolled,Male,23.0,2023-05-27 11:53:23.669724
+STU00959,Biology,Science,Home,Rejected,Female,21.0,2023-05-27 15:12:45.638031
+STU00960,Geography,Social Sciences,International,Enrolled,Male,20.0,2023-05-27 18:32:07.606338
+STU00961,Geography,Social Sciences,Home,Rejected,Female,19.0,2023-05-27 21:51:29.574645
+STU00962,Psychology,Social Sciences,Home,Enrolled,Male,24.0,2023-05-28 01:10:51.542952
+STU00963,Pharmacology,Clinical Medicine,Home,Enrolled,Male,25.0,2023-05-28 04:30:13.511259
+STU00964,Engineering,Engineering,Home,Enrolled,Female,20.0,2023-05-28 07:49:35.479566
+STU00965,Classics,Arts & Humanities,International,Rejected,Male,22.0,2023-05-28 11:08:57.447873
+STU00966,Physics,Science,International,Enrolled,Female,24.0,2023-05-28 14:28:19.416180
+STU00967,English,Arts & Humanities,Home,Rejected,Female,18.0,2023-05-28 17:47:41.384487
+STU00968,Engineering,Engineering,Home,Enrolled,Female,18.0,2023-05-28 21:07:03.352793
+STU00969,Psychology,Social Sciences,Home,Enrolled,Male,24.0,2023-05-29 00:26:25.321100
+STU00970,Engineering,Engineering,International,Enrolled,Male,25.0,
+STU00971,Physics,Science,International,Rejected,Male,22.0,2023-05-29 07:05:09.257714
+STU00972,History,Arts & Humanities,Home,Enrolled,Male,19.0,2023-05-29 10:24:31.226021
+STU00973,Pharmacology,Clinical Medicine,Home,Rejected,Male,18.0,2023-05-29 13:43:53.194328
+STU00974,Engineering,Engineering,International,Enrolled,,25.0,2023-05-29 17:03:15.162635
+STU00975,Computer Science,Science,Home,Enrolled,Male,20.0,2023-05-29 20:22:37.130942
+STU00976,CHEMISTRY,Science,International,Enrolled,Male,18.0,2023-05-29 23:41:59.099249
+STU00977,Music,Arts & Humanities,Home,Enrolled,Male,22.0,2023-05-30 03:01:21.067556
+STU00978,Chemical Engineering,Engineering,International,Rejected,,25.0,2023-05-30 06:20:43.035863
+STU00979,Computer Science,Science,International,Enrolled,Male,25.0,2023-05-30 09:40:05.004170
+STU00980,Economics,Social Sciences,Home,Enrolled,Male,22.0,2023-05-30 12:59:26.972477
+STU00981,Philosophy,Arts & Humanities,Home,Enrolled,Female,20.0,2023-05-30 16:18:48.940783
+STU00982,Engineering,Engineering,Home,Rejected,Male,19.0,2023-05-30 19:38:10.909090
+STU00983,Music,Arts & Humanities,Home,Enrolled,Female,22.0,
+STU00984,Biology,Science,International,Rejected,Female,19.0,2023-05-31 02:16:54.845704
+STU00985,Geography,Social Sciences,Home,Enrolled,Female,18.0,2023-05-31 05:36:16.814011
+STU00986,Medicine,Clinical Medicine,International,Enrolled,Male,,2023-05-31 08:55:38.782318
+STU00987,Chemical Engineering,Engineering,Home,Enrolled,Female,20.0,2023-05-31 12:15:00.750625
+STU00988,BIOLOGY,Science,International,Enrolled,Female,25.0,2023-05-31 15:34:22.718932
+STU00989,Medicine,Clinical Medicine,Home,Rejected,Male,25.0,2023-05-31 18:53:44.687239
+STU00990,Music,Arts & Humanities,International,Enrolled,Non-binary,23.0,2023-05-31 22:13:06.655546
+STU00991,Chemistry,Science,International,Rejected,Male,24.0,2023-06-01 01:32:28.623853
+STU00992,Philosophy,Arts & Humanities,Home,Enrolled,Male,19.0,2023-06-01 04:51:50.592160
+STU00993,Economics,Social Sciences,International,Enrolled,Female,18.0,2023-06-01 08:11:12.560467
+STU00994,Chemistry,Science,Home,Enrolled,,18.0,2023-06-01 11:30:34.528773
+STU00995,Chemical Engineering,Engineering,Home,Enrolled,Female,21.0,2023-06-01 14:49:56.497080
+STU00996,English,Arts & Humanities,International,Enrolled,Female,21.0,2023-06-01 18:09:18.465387
+STU00997,Computer Science,Science,Home,Enrolled,,20.0,2023-06-01 21:28:40.433694
+STU00998,Biology,Science,International,Enrolled,Male,24.0,2023-06-02 00:48:02.402001
+STU00999,Chemical Engineering,Engineering,International,Enrolled,Male,21.0,2023-06-02 04:07:24.370308
+STU01000,Engineering,Engineering,Home,Rejected,Male,25.0,2023-06-02 07:26:46.338615
+STU01001,Philosophy,Arts & Humanities,International,Enrolled,Female,24.0,2023-06-02 10:46:08.306922
+STU01002,Medicine,Clinical Medicine,Home,Enroled,Male,20.0,2023-06-02 14:05:30.275229
+STU01003,Sociology,Social Sciences,Home,Enrolled,Female,25.0,2023-06-02 17:24:52.243536
+STU01004,Civil Engineering,Engineering,International,Enrolled,Female,25.0,2023-06-02 20:44:14.211843
+STU01005,Computer Science,Science,Home,Rejected,Male,,2023-06-03 00:03:36.180150
+STU01006,Chemistry,Science,Home,Enrolled,Female,21.0,2023-06-03 03:22:58.148457
+STU01007,Mathematics,Science,International,Enrolled,Female,24.0,2023-06-03 06:42:20.116763
+STU01008,Classics,Arts & Humanities,Home,Enrolled,Female,18.0,2023-06-03 10:01:42.085070
+STU01009,Engineering,Engineering,International,Rejected,Male,24.0,2023-06-03 13:21:04.053377
+STU01010,Biology,Science,International,Rejected,Male,25.0,2023-06-03 16:40:26.021684
+STU01011,Geography,Social Sciences,Home,Enrolled,Male,22.0,2023-06-03 19:59:47.989991
+STU01012,Politics,Social Sciences,INTERNATIONAL,Enrolled,Male,24.0,2023-06-03 23:19:09.958298
+STU01013,Psychology,Social Sciences,International,Enrolled,Male,25.0,2023-06-04 02:38:31.926605
+STU01014,English,Arts & Humanities,International,Enrolled,Female,18.0,2023-06-04 05:57:53.894912
+STU01015,Veterinary Medicine,Clinical Medicine,Home,Rejected,Male,24.0,2023-06-04 09:17:15.863219
+STU01016,Physics,Science,Home,Enrolled,Female,19.0,2023-06-04 12:36:37.831526
+STU01017,Classics,Arts & Humanities,International,Enrolled,Male,24.0,2023-06-04 15:55:59.799833
+STU01018,Psychology,Social Sciences,Home,Enrolled,Male,19.0,2023-06-04 19:15:21.768140
+STU01019,History,Arts & Humanities,International,Rejected,Female,23.0,2023-06-04 22:34:43.736447
+STU01020,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Female,24.0,2023-06-05 01:54:05.704753
+STU01021,Mathematics,Science,Home,Enrolled,Female,22.0,2023-06-05 05:13:27.673060
+STU01022,Physics,Science,Home,Enrolled,Female,25.0,2023-06-05 08:32:49.641367
+STU01023,Engineering,Engineering,Home,Enrolled,Male,21.0,2023-06-05 11:52:11.609674
+STU01024,Computer Science,Science,Home,Enrolled,Female,23.0,2023-06-05 15:11:33.577981
+STU01025,Music,Arts & Humanities,INTERNATIONAL,Enrolled,Female,25.0,2023-06-05 18:30:55.546288
+STU01026,Engineering,Engineering,Home,Rejected,Female,22.0,2023-06-05 21:50:17.514595
+STU01027,English,Arts & Humanities,Home,Enrolled,Female,24.0,2023-06-06 01:09:39.482902
+STU01028,Engineering,Engineering,Home,Rejected,Female,23.0,2023-06-06 04:29:01.451209
+STU01029,Music,Arts & Humanities,Home,Enrolled,Male,20.0,2023-06-06 07:48:23.419516
+STU01030,Classics,Arts & Humanities,Home,Rejected,Female,22.0,2023-06-06 11:07:45.387823
+STU01031,Physics,Science,Home,Enrolled,Female,19.0,2023-06-06 14:27:07.356130
+STU01032,Mathematics,Science,Home,Rejected,Male,20.0,2023-06-06 17:46:29.324437
+STU01033,Geography,Social Sciences,Home,Enrolled,Male,20.0,2023-06-06 21:05:51.292743
+STU01034,ENGLISH,Arts & Humanities,Home,Enrolled,Female,19.0,2023-06-07 00:25:13.261050
+STU01035,English,Arts & Humanities,Home,Enrolled,Male,25.0,2023-06-07 03:44:35.229357
+STU01036,Veterinary Medicine,Clinical Medicine,Home,Rejected,Female,21.0,2023-06-07 07:03:57.197664
+STU01037,Physics,Science,Home,Enrolled,Male,18.0,2023-06-07 10:23:19.165971
+STU01038,Computer Science,Science,Home,Rejected,Female,22.0,2023-06-07 13:42:41.134278
+STU01039,Mathematics,Science,Home,Enrolled,Female,20.0,2023-06-07 17:02:03.102585
+STU01040,History,Arts & Humanities,International,Rejected,Male,18.0,2023-06-07 20:21:25.070892
+STU01041,Medicine,Clinical Medicine,International,Enrolled,Female,23.0,2023-06-07 23:40:47.039199
+STU01042,Sociology,Social Sciences,International,Enrolled,Female,21.0,2023-06-08 03:00:09.007506
+STU01043,Medicine,Clinical Medicine,Home,Rejected,Male,21.0,2023-06-08 06:19:30.975813
+STU01044,Economics,Social Sciences,Home,Enrolled,Female,23.0,2023-06-08 09:38:52.944120
+STU01045,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Male,18.0,2023-06-08 12:58:14.912427
+STU01046,SOCIOLOGY,Social Sciences,Home,Rejected,Male,22.0,2023-06-08 16:17:36.880733
+STU01047,Classics,Arts & Humanities,Home,Rejected,Male,19.0,2023-06-08 19:36:58.849040
+STU01048,Economics,Social Sciences,Home,Enrolled,Female,25.0,2023-06-08 22:56:20.817347
+STU01049,Chemical Engineering,Engineering,Home,Rejected,Male,19.0,2023-06-09 02:15:42.785654
+STU01050,History,Arts & Humanities,Home,Enrolled,Female,19.0,2023-06-09 05:35:04.753961
+STU01051,Veterinary Medicine,Clinical Medicine,Home,Rejected,Male,18.0,2023-06-09 08:54:26.722268
+STU01052,Engineering,Engineering,Home,Enrolled,Male,20.0,2023-06-09 12:13:48.690575
+STU01053,Sociology,Social Sciences,Home,Rejected,Female,21.0,2023-06-09 15:33:10.658882
+STU01054,Biology,Science,Home,Enrolled,Male,20.0,2023-06-09 18:52:32.627189
+STU01055,Chemical Engineering,Engineering,Home,Enrolled,Male,25.0,2023-06-09 22:11:54.595496
+STU01056,History,Arts & Humanities,Home,Enrolled,Female,25.0,2023-06-10 01:31:16.563803
+STU01057,Economics,Social Sciences,Home,Rejected,Female,19.0,2023-06-10 04:50:38.532110
+STU01058,Chemistry,Science,Home,Enrolled,Male,23.0,2023-06-10 08:10:00.500417
+STU01059,Medicine,Clinical Medicine,Home,Enrolled,Male,20.0,2023-06-10 11:29:22.468723
+STU01060,Economics,Social Sciences,Home,Enrolled,Male,21.0,2023-06-10 14:48:44.437030
+STU01061,Engineering,Engineering,International,Enrolled,Male,24.0,2023-06-10 18:08:06.405337
+STU01062,History,Arts & Humanities,Home,Enrolled,Male,18.0,2023-06-10 21:27:28.373644
+STU01063,History,Arts & Humanities,Home,Enrolled,Female,25.0,2023-06-11 00:46:50.341951
+STU01064,Psychology,Social Sciences,International,Rejected,Male,20.0,2023-06-11 04:06:12.310258
+STU01065,History,Arts & Humanities,Home,Rejected,Male,23.0,2023-06-11 07:25:34.278565
+STU01066,Physics,Science,Home,Enrolled,Male,24.0,2023-06-11 10:44:56.246872
+STU01067,Politics,Social Sciences,International,Rejected,Female,21.0,2023-06-11 14:04:18.215179
+STU01068,Psychology,Social Sciences,International,Enrolled,Female,24.0,2023-06-11 17:23:40.183486
+STU01069,Computer Science,Science,International,Enrolled,Male,20.0,2023-06-11 20:43:02.151793
+STU01070,Civil Engineering,Engineering,Home,Enrolled,Male,24.0,2023-06-12 00:02:24.120100
+STU01071,Sociology,Social Sciences,Home,Enrolled,Female,25.0,2023-06-12 03:21:46.088407
+STU01072,Biology,Science,home,Enrolled,Female,23.0,2023-06-12 06:41:08.056713
+STU01073,Psychology,Social Sciences,Home,Enrolled,Female,25.0,2023-06-12 10:00:30.025020
+STU01074,Philosophy,Arts & Humanities,Home,Enrolled,Male,18.0,2023-06-12 13:19:51.993327
+STU01075,Medicine,Clinical Medicine,International,Rejected,Female,19.0,2023-06-12 16:39:13.961634
+STU01076,Engineering,Engineering,International,Rejected,Female,23.0,2023-06-12 19:58:35.929941
+STU01077,Politics,Social Sciences,Home,Enrolled,Male,20.0,2023-06-12 23:17:57.898248
+STU01078,Veterinary Medicine,Clinical Medicine,International,Rejected,Male,24.0,2023-06-13 02:37:19.866555
+STU01079,Medicine,Clinical Medicine,Home,Rejected,Female,20.0,2023-06-13 05:56:41.834862
+STU01080,Physics,Science,Home,Enrolled,Male,18.0,2023-06-13 09:16:03.803169
+STU01081,Biology,Science,Home,Enrolled,Female,22.0,2023-06-13 12:35:25.771476
+STU01082,Physics,Science,Home,Enrolled,Male,22.0,2023-06-13 15:54:47.739783
+STU01083,Computer Science,Science,International,Enrolled,Female,23.0,2023-06-13 19:14:09.708090
+STU01084,Biology,Science,Home,Enrolled,Male,18.0,2023-06-13 22:33:31.676396
+STU01085,Chemistry,Science,Home,Enrolled,Male,20.0,2023-06-14 01:52:53.644703
+STU01086,Philosophy,Arts & Humanities,Home,Enrolled,Male,25.0,2023-06-14 05:12:15.613010
+STU01087,Biology,Science,Home,Enrolled,Female,25.0,2023-06-14 08:31:37.581317
+STU01088,Geography,Social Sciences,Home,Enrolled,Male,24.0,2023-06-14 11:50:59.549624
+STU01089,Computer Science,Science,International,Rejected,Male,22.0,2023-06-14 15:10:21.517931
+STU01090,Music,Arts & Humanities,Home,Enrolled,,23.0,2023-06-14 18:29:43.486238
+STU01091,Engineering,Engineering,International,Rejected,Female,20.0,2023-06-14 21:49:05.454545
+STU01092,History,Arts & Humanities,home,Enrolled,,22.0,2023-06-15 01:08:27.422852
+STU01093,Pharmacology,Clinical Medicine,International,Rejected,Male,22.0,2023-06-15 04:27:49.391159
+STU01094,PHILOSOPHY,Arts & Humanities,Home,Enrolled,Male,20.0,2023-06-15 07:47:11.359466
+STU01095,Philosophy,Arts & Humanities,Home,Rejected,Male,22.0,2023-06-15 11:06:33.327773
+STU01096,Medicine,Clinical Medicine,International,Rejected,Female,22.0,2023-06-15 14:25:55.296080
+STU01097,Pharmacology,Clinical Medicine,International,Rejected,Male,19.0,2023-06-15 17:45:17.264386
+STU01098,Psychology,Social Sciences,International,Enrolled,Male,23.0,2023-06-15 21:04:39.232693
+STU01099,Psychology,Social Sciences,Home,Enrolled,Female,23.0,2023-06-16 00:24:01.201000
+STU01100,Psychology,Social Sciences,Home,Enrolled,Female,19.0,2023-06-16 03:43:23.169307
+STU01101,Computer Science,Science,Home,Rejected,Male,18.0,2023-06-16 07:02:45.137614
+STU01102,Classics,Arts & Humanities,Home,Enrolled,Male,21.0,2023-06-16 10:22:07.105921
+STU01103,Computer Science,Science,International,ENROLLED,Non-binary,21.0,2023-06-16 13:41:29.074228
+STU01104,Geography,Social Sciences,International,Enroled,Female,22.0,2023-06-16 17:00:51.042535
+STU01105,Medicine,Clinical Medicine,International,Rejected,Female,20.0,2023-06-16 20:20:13.010842
+STU01106,Engineering,Engineering,Home,Enrolled,Female,21.0,2023-06-16 23:39:34.979149
+STU01107,Medicine,Clinical Medicine,International,Rejected,Male,21.0,2023-06-17 02:58:56.947456
+STU01108,Chemical Engineering,Engineering,Home,Rejected,Female,23.0,2023-06-17 06:18:18.915763
+STU01109,Psychology,Social Sciences,Home,Enrolled,Male,20.0,2023-06-17 09:37:40.884070
+STU01110,Computer Science,Science,Home,Rejected,Female,24.0,2023-06-17 12:57:02.852376
+STU01111,Psychology,Social Sciences,International,Enrolled,Male,18.0,2023-06-17 16:16:24.820683
+STU01112,Mathematics,Science,International,Enrolled,Male,20.0,2023-06-17 19:35:46.788990
+STU01113,Geography,Social Sciences,Home,Enrolled,Female,25.0,2023-06-17 22:55:08.757297
+STU01114,Physics,Science,International,Rejected,Male,24.0,2023-06-18 02:14:30.725604
+STU01115,Classics,Arts & Humanities,Home,Enrolled,Female,24.0,2023-06-18 05:33:52.693911
+STU01116,Engineering,Engineering,International,Enrolled,Male,25.0,2023-06-18 08:53:14.662218
+STU01117,Computer Science,Science,Home,Enrolled,Female,25.0,2023-06-18 12:12:36.630525
+STU01118,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Female,25.0,2023-06-18 15:31:58.598832
+STU01119,Psychology,Social Sciences,Home,Enrolled,Male,24.0,2023-06-18 18:51:20.567139
+STU01120,Veterinary Medicine,Clinical Medicine,International,Rejected,Female,20.0,2023-06-18 22:10:42.535446
+STU01121,Engineering,Engineering,International,Rejected,Male,25.0,2023-06-19 01:30:04.503753
+STU01122,Chemical Engineering,Engineering,Home,Enrolled,Female,20.0,2023-06-19 04:49:26.472060
+STU01123,Pharmacology,Clinical Medicine,Home,Rejected,Female,19.0,2023-06-19 08:08:48.440366
+STU01124,Psychology,Social Sciences,Home,Enrolled,Male,25.0,2023-06-19 11:28:10.408673
+STU01125,Politics,Social Sciences,International,Rejected,Male,20.0,2023-06-19 14:47:32.376980
+STU01126,English,Arts & Humanities,International,Rejected,Male,23.0,2023-06-19 18:06:54.345287
+STU01127,Engineering,Engineering,Home,Enrolled,Female,19.0,2023-06-19 21:26:16.313594
+STU01128,Pharmacology,Clinical Medicine,International,Enrolled,Female,24.0,2023-06-20 00:45:38.281901
+STU01129,Physics,Science,International,Enrolled,Male,23.0,2023-06-20 04:05:00.250208
+STU01130,Mathematics,Science,Home,Enrolled,Female,18.0,2023-06-20 07:24:22.218515
+STU01131,Medicine,Clinical Medicine,home,Rejected,Male,19.0,2023-06-20 10:43:44.186822
+STU01132,Computer Science,Science,Home,Enrolled,Male,23.0,2023-06-20 14:03:06.155129
+STU01133,Computer Science,Science,Home,Enrolled,Male,25.0,2023-06-20 17:22:28.123436
+STU01134,English,Arts & Humanities,Home,Enrolled,Female,20.0,2023-06-20 20:41:50.091743
+STU01135,Engineering,Engineering,Home,Rejected,Female,24.0,2023-06-21 00:01:12.060050
+STU01136,Psychology,Social Sciences,Home,Enrolled,Female,22.0,2023-06-21 03:20:34.028356
+STU01137,Chemistry,Science,Home,Rejected,Male,21.0,2023-06-21 06:39:55.996663
+STU01138,Music,Arts & Humanities,Home,Enrolled,Female,25.0,2023-06-21 09:59:17.964970
+STU01139,Politics,Social Sciences,International,ENROLLED,Female,,2023-06-21 13:18:39.933277
+STU01140,ENGLISH,Arts & Humanities,Home,Rejected,Male,19.0,2023-06-21 16:38:01.901584
+STU01141,Medicine,Clinical Medicine,Home,Rejected,Male,24.0,2023-06-21 19:57:23.869891
+STU01142,Physics,Science,Home,Enrolled,,22.0,2023-06-21 23:16:45.838198
+STU01143,Biology,Science,Home,Enrolled,Male,23.0,2023-06-22 02:36:07.806505
+STU01144,Computer Science,Science,Home,Enrolled,Male,25.0,2023-06-22 05:55:29.774812
+STU01145,Computer Science,Science,Home,Enrolled,Female,20.0,2023-06-22 09:14:51.743119
+STU01146,Medicine,Clinical Medicine,International,Enrolled,Female,25.0,2023-06-22 12:34:13.711426
+STU01147,Veterinary Medicine,Clinical Medicine,Home,Enrolled,Male,25.0,2023-06-22 15:53:35.679733
+STU01148,Psychology,Social Sciences,HOME,Rejected,Female,23.0,2023-06-22 19:12:57.648040
+STU01149,Philosophy,Arts & Humanities,Home,Rejected,Female,24.0,2023-06-22 22:32:19.616346
+STU01150,History,Arts & Humanities,Home,Enrolled,Female,24.0,2023-06-23 01:51:41.584653
+STU01151,Mathematics,Science,Home,Enrolled,Male,18.0,2023-06-23 05:11:03.552960
+STU01152,Psychology,Social Sciences,Home,Enrolled,Male,25.0,2023-06-23 08:30:25.521267
+STU01153,Geography,Social Sciences,Home,Rejected,Female,19.0,2023-06-23 11:49:47.489574
+STU01154,PHYSICS,Science,Home,Enrolled,Male,18.0,2023-06-23 15:09:09.457881
+STU01155,Geography,Social Sciences,Home,Enrolled,Male,22.0,2023-06-23 18:28:31.426188
+STU01156,Economics,Social Sciences,International,Rejected,Male,19.0,2023-06-23 21:47:53.394495
+STU01157,Biology,Science,Home,Enrolled,Male,19.0,2023-06-24 01:07:15.362802
+STU01158,Physics,Science,international,Enrolled,Male,18.0,2023-06-24 04:26:37.331109
+STU01159,Medicine,Clinical Medicine,home,Rejected,Female,21.0,2023-06-24 07:45:59.299416
+STU01160,Classics,Arts & Humanities,Home,Rejected,Male,18.0,2023-06-24 11:05:21.267723
+STU01161,Biology,Science,International,Rejected,,20.0,2023-06-24 14:24:43.236030
+STU01162,Physics,Science,Home,Enrolled,Female,22.0,2023-06-24 17:44:05.204336
+STU01163,Geography,Social Sciences,International,Rejected,Female,21.0,2023-06-24 21:03:27.172643
+STU01164,Economics,Social Sciences,Home,Enrolled,Female,25.0,2023-06-25 00:22:49.140950
+STU01165,Geography,Social Sciences,International,Rejected,Female,23.0,2023-06-25 03:42:11.109257
+STU01166,History,Arts & Humanities,home,Rejected,Female,18.0,2023-06-25 07:01:33.077564
+STU01167,Chemistry,Science,Home,Enrolled,Female,18.0,2023-06-25 10:20:55.045871
+STU01168,Psychology,Social Sciences,HOME,Enrolled,Male,20.0,2023-06-25 13:40:17.014178
+STU01169,English,Arts & Humanities,Home,Enrolled,Female,23.0,2023-06-25 16:59:38.982485
+STU01170,Computer Science,Science,International,Enrolled,Male,19.0,2023-06-25 20:19:00.950792
+STU01171,Mathematics,Science,Home,Rejected,Male,19.0,2023-06-25 23:38:22.919099
+STU01172,Music,Arts & Humanities,Home,Rejected,Female,22.0,2023-06-26 02:57:44.887406
+STU01173,Physics,Science,Home,Enrolled,Female,22.0,2023-06-26 06:17:06.855713
+STU01174,Computer Science,Science,Home,Enrolled,Male,20.0,2023-06-26 09:36:28.824020
+STU01175,English,Arts & Humanities,Home,Rejected,Male,24.0,2023-06-26 12:55:50.792326
+STU01176,Medicine,Clinical Medicine,Home,Enrolled,Non-binary,18.0,2023-06-26 16:15:12.760633
+STU01177,Mathematics,Science,Home,Enrolled,Female,23.0,2023-06-26 19:34:34.728940
+STU01178,Computer Science,Science,Home,Rejected,Female,18.0,2023-06-26 22:53:56.697247
+STU01179,Medicine,Clinical Medicine,Home,Enrolled,Male,19.0,2023-06-27 02:13:18.665554
+STU01180,Economics,Social Sciences,Home,Enrolled,Male,24.0,2023-06-27 05:32:40.633861
+STU01181,Engineering,Engineering,International,Rejected,Male,22.0,2023-06-27 08:52:02.602168
+STU01182,Veterinary Medicine,Clinical Medicine,Home,Rejected,,19.0,2023-06-27 12:11:24.570475
+STU01183,History,Arts & Humanities,International,Enrolled,Female,21.0,2023-06-27 15:30:46.538782
+STU01184,Engineering,Engineering,International,Enrolled,Male,21.0,2023-06-27 18:50:08.507089
+STU01185,History,Arts & Humanities,Home,Rejected,Female,24.0,2023-06-27 22:09:30.475396
+STU01186,English,Arts & Humanities,Home,Rejected,Male,22.0,2023-06-28 01:28:52.443703
+STU01187,Engineering,Engineering,International,Rejected,Male,25.0,2023-06-28 04:48:14.412010
+STU01188,Engineering,Engineering,Home,Enrolled,Female,19.0,2023-06-28 08:07:36.380316
+STU01189,Psychology,Social Sciences,Home,Rejected,Female,24.0,2023-06-28 11:26:58.348623
+STU01190,Psychology,Social Sciences,Home,Rejected,Female,18.0,2023-06-28 14:46:20.316930
+STU01191,Medicine,Clinical Medicine,Home,Rejected,Male,19.0,2023-06-28 18:05:42.285237
+STU01192,Biology,Science,International,Enrolled,Female,20.0,2023-06-28 21:25:04.253544
+STU01193,Classics,Arts & Humanities,Home,Enrolled,Female,24.0,2023-06-29 00:44:26.221851
+STU01194,English,Arts & Humanities,Home,Enrolled,Male,21.0,2023-06-29 04:03:48.190158
+STU01195,Computer Science,Science,Home,Rejected,,20.0,2023-06-29 07:23:10.158465
+STU01196,Veterinary Medicine,Clinical Medicine,Home,Enrolled,,20.0,2023-06-29 10:42:32.126772
+STU01197,Psychology,Social Sciences,Home,Enrolled,Male,24.0,2023-06-29 14:01:54.095079
+STU01198,Pharmacology,Clinical Medicine,Home,Rejected,Non-binary,25.0,2023-06-29 17:21:16.063386
+STU01199,ENGINEERING,Engineering,International,Rejected,Female,25.0,2023-06-29 20:40:38.031693
+STU01200,Philosophy,Arts & Humanities,Home,Rejected,Male,22.0,2023-06-30 00:00:00.000000
